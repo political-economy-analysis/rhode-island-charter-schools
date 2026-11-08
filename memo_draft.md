@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Bottom line (target: ~100 words)
+## 1. Executive summary (target: ~100 words)
 
 [Placeholder: 2-3 sentences stating the net assessment up front, e.g. "Lifting the moratorium is likely to [raise / not change / lower] statewide proficiency by [small/uncertain amount], with effects concentrated in [Providence / urban core]. The result depends mainly on [which kind of charters expand]." State confidence level and the one or two things the conclusion hinges on. Neutral analyst voice: no advocacy.]
 

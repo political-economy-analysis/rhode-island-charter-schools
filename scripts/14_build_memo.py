@@ -33,12 +33,13 @@ HEADER = [("TO:", "Governor-elect, State of Rhode Island"),
           ("RE:", "Lifting the charter moratorium and doubling the cap from 28 to 56")]
 
 SECTIONS = [
- ("Bottom line", [
+ ("Executive summary", [
   "Lifting the moratorium and doubling the cap would probably raise statewide proficiency, but only slightly and with real "
   "uncertainty. Rhode Island's charters serve mostly low-income students of color and score well above what their poverty "
   "levels predict, and rigorous studies elsewhere find large urban charter gains. But charters enroll only 10% of public-school "
   "students, so even large per-student gains move the statewide rate by about one point at most. Effects and budget strain would "
-  "concentrate in Providence and nearby cities. The outcome depends on which operators expand."]),
+  "concentrate in Providence and nearby cities. The outcome depends on which operators expand.",
+  "<b>EXPLORE THE DATA: open the interactive map of Rhode Island charter schools at</b> <a href=\"https://political-economy-analysis.github.io/ri-charter-schools-map/\">https://political-economy-analysis.github.io/ri-charter-schools-map/</a>"]),
  ("The proposal and the starting point", [
   "The June 18, 2026 law pauses charter approvals and expansion through 2028-29, limits new charter funding through fiscal 2029, "
   "and cut the cap from 35 to 28. The proposal would end the pause and raise the cap to 56. Rhode Island has 24 charters running "
@@ -288,8 +289,16 @@ print(f"memo word count: {words} (header, headings, body, exhibit captions)")
 assert words <= 1000, "over the 1,000-word limit"
 
 # ====================================================================== PDF
-for name, idx in (("Charter", 0), ("Charter-Italic", 1), ("Charter-BoldItalic", 2), ("Charter-Bold", 3)):
-    pdfmetrics.registerFont(TTFont(name, style.TTC, subfontIndex=idx))
+import os, matplotlib
+if os.path.exists(style.TTC):      # Charter ships with macOS
+    for name, idx in (("Charter", 0), ("Charter-Italic", 1), ("Charter-BoldItalic", 2), ("Charter-Bold", 3)):
+        pdfmetrics.registerFont(TTFont(name, style.TTC, subfontIndex=idx))
+else:                              # other systems: DejaVu Sans, bundled with matplotlib
+    fd = os.path.join(matplotlib.get_data_path(), "fonts", "ttf")
+    print("Charter font not found; using DejaVu Sans")
+    for name, f in (("Charter", "DejaVuSans"), ("Charter-Italic", "DejaVuSans-Oblique"),
+                    ("Charter-BoldItalic", "DejaVuSans-BoldOblique"), ("Charter-Bold", "DejaVuSans-Bold")):
+        pdfmetrics.registerFont(TTFont(name, os.path.join(fd, f + ".ttf")))
 pdfmetrics.registerFontFamily("Charter", normal="Charter", bold="Charter-Bold", italic="Charter-Italic", boldItalic="Charter-BoldItalic")
 K = colors.black
 body = ParagraphStyle("body", fontName="Charter", fontSize=10, leading=13.4, textColor=K, spaceAfter=5)
@@ -302,7 +311,7 @@ tcell = ParagraphStyle("tcell", fontName="Charter", fontSize=8, leading=10, text
 tcellb = ParagraphStyle("tcellb", parent=tcell, fontName="Charter-Bold")
 bullet = ParagraphStyle("bullet", parent=body, leftIndent=12, bulletIndent=2, spaceAfter=3.5)
 ref = ParagraphStyle("ref", parent=body, fontSize=9, leading=11.8, leftIndent=14, firstLineIndent=-14, spaceAfter=4)
-esc = lambda s: s.replace("&", "&amp;")
+esc = lambda s: s.replace("&", "&amp;").replace("<a href", "<a color=\"#1f6fb2\" href")
 
 class NumberedCanvas(canvas.Canvas):
     """Page numbers in the form n/total."""
@@ -369,8 +378,21 @@ st.element.rPr.rFonts.set(qn("w:eastAsia"), "Charter")
 st.paragraph_format.space_after = Pt(4); st.paragraph_format.line_spacing = 1.12
 
 def runs(par, text, size=None, bold=None):
-    for tok in re.split(r"(<b>.*?</b>|<i>.*?</i>)", text):
+    for tok in re.split(r'(<b>.*?</b>|<i>.*?</i>|<a href=".*?">.*?</a>)', text):
         if not tok: continue
+        if tok.startswith("<a "):
+            url, label = re.match(r'<a href="(.*?)">(.*?)</a>', tok).groups()
+            rid = par.part.relate_to(url, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", is_external=True)
+            hl = OxmlElement("w:hyperlink"); hl.set(qn("r:id"), rid)
+            r = OxmlElement("w:r"); rp = OxmlElement("w:rPr")
+            for tag, attrs in (("w:rFonts", {"w:ascii": "Charter", "w:hAnsi": "Charter"}), ("w:color", {"w:val": "1F6FB2"}), ("w:u", {"w:val": "single"})):
+                e = OxmlElement(tag)
+                for k, v in attrs.items(): e.set(qn(k), v)
+                rp.append(e)
+            if size:
+                sz = OxmlElement("w:sz"); sz.set(qn("w:val"), str(int(size * 2))); rp.append(sz)
+            t = OxmlElement("w:t"); t.text = label
+            r.append(rp); r.append(t); hl.append(r); par._p.append(hl); continue
         b, i = tok.startswith("<b>"), tok.startswith("<i>")
         r = par.add_run(strip(tok)); r.bold = True if (b or bold) else None; r.italic = True if i else None
         r.font.name = "Charter"; r.font.color.rgb = RGBColor(0, 0, 0)
