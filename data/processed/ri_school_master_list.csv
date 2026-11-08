@@ -1,0 +1,392 @@
+sector,school_id,school_name,district_or_lea,city,zip,latitude,longitude,school_level,lowest_grade,highest_grade,enrollment,teachers_fte,pct_free_reduced_lunch,status,source
+Charter,440001500475,Blackstone Valley Prep Jr High,Blackstone Valley Prep  A RI Mayoral Academy,Central Falls,02863,41.889961,-71.401954,Middle,7.0,8.0,323.0,24.0,80.5,Open,CCD 2024
+Charter,440001400472,Segue Inst for Learning,Segue Institute for Learning,Central Falls,02863,41.88822,-71.396671,Primary,0.0,8.0,359.0,27.0,92.8,Open,CCD 2024
+Charter,440001400551,Segue Institute Learning High,Segue Institute for Learning,Central Falls,02863,41.88822,-71.396671,,9.0,9.0,55.0,4.0,89.1,New,CCD 2024
+Charter,440000600326,The Learning Community,Learning Community,Central Falls,02863,41.892346,-71.387999,Primary,0.0,8.0,569.0,46.0,89.6,Open,CCD 2024
+Charter,440002100527,AF Iluminar Mayoral Middle Sch,Achievement First Rhode Island,Cranston,02920,41.800163,-71.443305,Middle,5.0,8.0,406.0,20.0,80.8,Open,CCD 2024
+Charter,440002100495,Achievement First Iluminar,Achievement First Rhode Island,Cranston,02920,41.800163,-71.443305,Primary,0.0,4.0,465.0,31.0,78.5,Open,CCD 2024
+Charter,440024000229,Apprenticeship Exploration Sch,Cranston,Cranston,02920,41.739369,-71.461082,High,9.0,12.0,176.0,22.0,83.0,Open,CCD 2024
+Charter,440001500473,Blackstone Valley Prep,Blackstone Valley Prep  A RI Mayoral Academy,Cumberland,02864,41.90605,-71.392301,Primary,0.0,4.0,422.0,36.0,84.6,Open,CCD 2024
+Charter,440001500480,Blackstone Valley Prep E. 2,Blackstone Valley Prep  A RI Mayoral Academy,Cumberland,02864,41.901106,-71.391422,Primary,0.0,4.0,426.0,31.0,79.6,Open,CCD 2024
+Charter,440001500496,Blackstone Valley Prep Element,Blackstone Valley Prep  A RI Mayoral Academy,Cumberland,02864,41.978074,-71.457954,Primary,0.0,4.0,280.0,22.0,82.5,Open,CCD 2024
+Charter,440001500488,Blackstone Valley Prep High,Blackstone Valley Prep  A RI Mayoral Academy,Cumberland,02864,41.903466,-71.393425,High,9.0,12.0,405.0,30.0,73.8,Open,CCD 2024
+Charter,440003500245,The Compass School,The Compass School,Kingston,02881,41.494249,-71.516384,Primary,0.0,8.0,217.0,19.0,18.0,Open,CCD 2024
+Charter,440001500513,Blackstone Valley Prep Upper E,Blackstone Valley Prep  A RI Mayoral Academy,Lincoln,02865,41.886239,-71.415972,Middle,5.0,6.0,380.0,25.0,73.9,Open,CCD 2024
+Charter,440120100543,Excel Academy Rhode Island,Excel Academy Rhode Island,North Providence,02911,41.854982,-71.482727,Middle,5.0,7.0,312.0,21.0,79.8,Open,CCD 2024
+Charter,440003600246,Blackstone Academy Charter,Blackstone Academy,Pawtucket,02860,41.868997,-71.384952,High,9.0,12.0,357.0,25.0,81.2,Open,CCD 2024
+Charter,440003400226,International Charter School,International Charter,Pawtucket,02860,41.868997,-71.384952,Primary,0.0,5.0,377.0,22.0,66.3,Open,CCD 2024
+Charter,440002100515,AF Providence Mayoral Middle,Achievement First Rhode Island,Providence,02909,41.81742,-71.456241,Middle,5.0,8.0,405.0,29.0,85.9,Open,CCD 2024
+Charter,440002100539,Achievement First Envision Ele,Achievement First Rhode Island,Providence,02909,41.81742,-71.456241,Primary,0.0,4.0,458.0,31.0,82.3,Open,CCD 2024
+Charter,440002100533,Achievement First Promesa,Achievement First Rhode Island,Providence,02907,41.803845,-71.428502,Primary,0.0,5.0,548.0,41.0,83.8,Open,CCD 2024
+Charter,440002100486,Achievement First Providence,Achievement First Rhode Island,Providence,02909,41.81742,-71.456241,Primary,0.0,4.0,460.0,34.0,83.0,Open,CCD 2024
+Charter,440002100538,Achievement First Providence H,Achievement First Rhode Island,Providence,02907,41.80768,-71.423844,High,9.0,12.0,458.0,36.0,82.3,Open,CCD 2024
+Charter,440003700519,Charette Charter School,Charette Charter,Providence,02903,41.821906,-71.414465,High,9.0,12.0,168.0,10.0,88.1,Open,CCD 2024
+Charter,440003100524,Highlander Elementary Charter,Highlander,Providence,02907,41.799543,-71.417336,Primary,-1.0,6.0,269.0,21.0,84.4,Open,CCD 2024
+Charter,440003800540,Nuestro Mundo Public Charter S,Nuestro Mundo Public Charter,Providence,02905,41.804523,-71.416409,Primary,0.0,8.0,292.0,16.0,85.3,Open,CCD 2024
+Charter,440003200520,Paul Cuffee Lower School,Paul Cuffee Charter Sch,Providence,02908,41.829346,-71.427507,Primary,0.0,5.0,358.0,28.0,86.3,Open,CCD 2024
+Charter,440003200525,Paul Cuffee Middle School,Paul Cuffee Charter Sch,Providence,02909,41.817306,-71.436818,Middle,6.0,8.0,189.0,13.0,89.9,Open,CCD 2024
+Charter,440003200526,Paul Cuffee Upper School,Paul Cuffee Charter Sch,Providence,02907,41.797718,-71.425572,High,9.0,12.0,243.0,26.0,90.5,Open,CCD 2024
+Charter,440003900541,Providence Preparatory Charter,Providence Preparatory Charter,Providence,02907,41.812272,-71.428545,Middle,5.0,8.0,244.0,,99.6,Open,CCD 2024
+Charter,440001900479,RINI Middle College,Rhode Island Nurses Institute Middle College,Providence,02903,41.82255,-71.415161,High,9.0,12.0,462.0,38.0,84.2,Open,CCD 2024
+Charter,440002800490,SouthSide Elementary Charter,SouthSide Charter School,Providence,02905,41.81116,-71.416421,Primary,0.0,5.0,135.0,10.0,80.7,Open,CCD 2024
+Charter,440002700489,The Hope Academy,The Hope Academy,Providence,02905,41.801206,-71.405383,Primary,0.0,8.0,320.0,28.0,80.6,Open,CCD 2024
+Charter,440090000528,Times2 Elementary School,Providence,Providence,02908,41.838094,-71.422149,Primary,0.0,5.0,322.0,29.0,85.4,Open,CCD 2024
+Charter,440090000530,Times2 Middle/High School,Providence,Providence,02908,41.838094,-71.422149,High,6.0,12.0,383.0,31.0,76.0,Open,CCD 2024
+Charter,440001800478,Trinity Academy Performing Art,Trinity Academy for the Performing Arts,Providence,02903,41.822773,-71.414939,High,5.0,12.0,234.0,25.0,81.2,Open,CCD 2024
+Charter,440002500487,Village Green Virtual,Village Green Virtual,Providence,02903,41.82292,-71.411471,High,9.0,12.0,203.0,14.0,98.5,Open,CCD 2024
+Charter,440003300225,Kingston Hill Academy,Kingston Hill Academy,Saunderstown,02874,41.499095,-71.511232,Primary,0.0,5.0,260.0,21.0,18.8,Open,CCD 2024
+Charter,440003100521,Highlander Secondary Charter S,Highlander,Warren,02885,41.746329,-71.275077,High,7.0,12.0,340.0,22.0,87.4,Open,CCD 2024
+Charter,440001700477,The Greene School,The Greene School,West Greenwich,02817,41.615638,-71.682653,High,9.0,12.0,189.0,13.0,45.5,Open,CCD 2024
+Charter,440000800297,BEACON Charter School,Beacon Charter School,Woonsocket,02895,42.005136,-71.51291,High,9.0,12.0,203.0,17.0,66.0,Open,CCD 2024
+Charter,440000800493,Founders Academy,Beacon Charter School,Woonsocket,02895,42.005706,-71.511996,Middle,6.0,8.0,158.0,14.0,70.3,Open,CCD 2024
+Charter,440002900548,RISE Prep Mayoral Acad High,RISE Prep Mayoral Academy,Woonsocket,02895,42.009372,-71.503412,,9.0,9.0,62.0,8.0,82.3,New,CCD 2024
+Charter,440002900494,RISE Prep Mayoral Academy,RISE Prep Mayoral Academy,Woonsocket,02895,42.00889,-71.50308,Primary,0.0,8.0,573.0,35.0,67.0,Open,CCD 2024
+Private,PSS_001,Barrington Christian Academy,Other religious,Barrington,02806,41.755976,-71.327399,Combined,,,184.0,20.9,,Open,PSS 2021-22
+Private,PSS_002,Montessori Centre Of Barrington,Nonsectarian,Barrington,02806,41.75341,-71.293841,Elementary,,,5.0,2.0,,Open,PSS 2021-22
+Private,PSS_003,Red Brick Nursery School,Nonsectarian,Barrington,02806,41.75684,-71.330671,Elementary,,,14.0,3.1,,Open,PSS 2021-22
+Private,PSS_004,St Andrews School,Nonsectarian,Barrington,28062,41.749423,-71.324453,Combined,,,211.0,31.8,,Open,PSS 2021-22
+Private,PSS_005,St Luke'S School,Catholic,Barrington,02806,41.750816,-71.339488,Elementary,,,144.0,15.6,,Open,PSS 2021-22
+Private,PSS_006,Harmony Hill School,Nonsectarian,Chepachet,02814,41.91569,-71.623721,Combined,,,40.0,9.6,,Open,PSS 2021-22
+Private,PSS_007,Father John V. Doyle School,Catholic,Coventry,02816,41.68279,-71.576413,Elementary,,,156.0,17.6,,Open,PSS 2021-22
+Private,PSS_008,Pathways Strategic Teaching Center,Nonsectarian,Coventry,02816,41.6618,-71.571891,Combined,,,76.0,10.0,,Open,PSS 2021-22
+Private,PSS_009,Miss Lee Anns Early Learning Center,Nonsectarian,Cranston,02920,41.77064,-71.469601,Elementary,,,5.0,1.0,,Open,PSS 2021-22
+Private,PSS_010,St Mary Elementary School,Catholic,Cranston,02920,41.789598,-71.465437,Elementary,,,148.0,11.9,,Open,PSS 2021-22
+Private,PSS_011,St Paul School,Catholic,Cranston,02905,41.776704,-71.400258,Elementary,,,121.0,12.4,,Open,PSS 2021-22
+Private,PSS_012,Little Red Hen Preschool & Kindergarten,Nonsectarian,East Greenwich,02818,41.64678,-71.456098,Elementary,,,15.0,2.0,,Open,PSS 2021-22
+Private,PSS_013,Montessori Of Greenwich Bay,Nonsectarian,East Greenwich,02818,41.60761,-71.49376,Elementary,,,5.0,3.4,,Open,PSS 2021-22
+Private,PSS_014,Our Lady Of Mercy School,Catholic,East Greenwich,02818,41.65456,-71.457551,Elementary,,,205.0,16.1,,Open,PSS 2021-22
+Private,PSS_015,Rocky Hill Country Day School,Nonsectarian,East Greenwich,02818,41.658869,-71.421618,Combined,,,276.0,61.5,,Open,PSS 2021-22
+Private,PSS_016,Sweet Peas Village Early Childhood School,Nonsectarian,East Greenwich,02818,41.645516,-71.490299,Elementary,,,16.0,3.8,,Open,PSS 2021-22
+Private,PSS_017,The Stork'S Nest Child Academy - East Greenwich,Nonsectarian,East Greenwich,02818,41.611831,-71.491179,Elementary,,,12.0,2.0,,Open,PSS 2021-22
+Private,PSS_018,Gordon School,Nonsectarian,East Providence,02914,41.801183,-71.372846,Elementary,,,332.0,44.0,,Open,PSS 2021-22
+Private,PSS_019,Ocean State Montessori School,Nonsectarian,East Providence,02914,41.81817,-71.372461,Elementary,,,68.0,5.0,,Open,PSS 2021-22
+Private,PSS_020,Providence Country Day School,Nonsectarian,East Providence,02914,41.816891,-71.353497,Combined,,,339.0,38.4,,Open,PSS 2021-22
+Private,PSS_021,Sacred Heart School,Catholic,East Providence,02914,41.819419,-71.377484,Elementary,,,128.0,12.9,,Open,PSS 2021-22
+Private,PSS_022,Overbrook Academy,Catholic,Greenville,02828,41.878822,-71.559156,Combined,,,88.0,5.6,,Open,PSS 2021-22
+Private,PSS_023,St Philip School,Catholic,Greenville,02828,41.873193,-71.558505,Elementary,,,147.0,14.5,,Open,PSS 2021-22
+Private,PSS_024,Action Based Enterprises School,Nonsectarian,Johnston,02919,42.002431,-71.514011,Elementary,,,16.0,4.0,,Open,PSS 2021-22
+Private,PSS_025,St Rocco School,Catholic,Johnston,02919,41.79717,-71.484241,Elementary,,,135.0,12.3,,Open,PSS 2021-22
+Private,PSS_026,The Spurwink School,Nonsectarian,Lincoln,02865,41.91292,-71.415871,Combined,,,19.0,6.0,,Open,PSS 2021-22
+Private,PSS_027,Little Peeps Montessori Naturskola,Nonsectarian,Little Compton,02837,41.50884,-71.17153,Elementary,,,5.0,1.0,,Open,PSS 2021-22
+Private,PSS_028,All Saints Academy,Catholic,Middletown,02842,41.525623,-71.29276,Elementary,,,120.0,13.9,,Open,PSS 2021-22
+Private,PSS_029,Middlebridge School,Nonsectarian,Narragansett,02882,41.415165,-71.457291,Secondary,,,70.0,40.0,,Open,PSS 2021-22
+Private,PSS_030,Quest Montessori School,Nonsectarian,Narragansett,02882,41.488263,-71.4392,Elementary,,,63.0,6.9,,Open,PSS 2021-22
+Private,PSS_031,St Michaels Country Day School,Nonsectarian,Newport,02840,41.48547,-71.301651,Elementary,,,161.0,21.6,,Open,PSS 2021-22
+Private,PSS_032,South County Montessori School,Nonsectarian,North Kingstown,02852,41.542957,-71.469137,Elementary,,,42.0,5.9,,Open,PSS 2021-22
+Private,PSS_033,West Bay Christian Academy (Elementary),Other religious,North Kingstown,02852,41.61542,-71.472291,Elementary,,,146.0,16.5,,Open,PSS 2021-22
+Private,PSS_034,George N Hunt Campus School,Nonsectarian,North Providence,29112,41.849881,-71.465519,Combined,,,24.0,4.9,,Open,PSS 2021-22
+Private,PSS_035,Community Christian School,Other religious,Pascoag,02859,41.959135,-71.706029,Elementary,,,55.0,6.0,,Open,PSS 2021-22
+Private,PSS_036,Darlington Early Childhood Center,Nonsectarian,Pawtucket,02861,41.874969,-71.354636,Elementary,,,8.0,1.0,,Open,PSS 2021-22
+Private,PSS_037,St Cecilia School,Catholic,Pawtucket,02861,41.88784,-71.353931,Elementary,,,170.0,18.5,,Open,PSS 2021-22
+Private,PSS_038,St Raphael Academy,Catholic,Pawtucket,02860,41.87704,-71.376071,Secondary,,,444.0,36.4,,Open,PSS 2021-22
+Private,PSS_039,St Teresa School,Catholic,Pawtucket,02861,41.867569,-71.355985,Elementary,,,210.0,16.1,,Open,PSS 2021-22
+Private,PSS_040,Portsmouth Abbey School,Catholic,Portsmouth,02871,41.601155,-71.269856,Secondary,,,334.0,50.0,,Open,PSS 2021-22
+Private,PSS_041,Sea Rose Montessori Co-Op,Nonsectarian,Portsmouth,02871,41.546755,-71.262108,Elementary,,,14.0,8.3,,Open,PSS 2021-22
+Private,PSS_042,St Philomena School Of The Sacred Heart,Catholic,Portsmouth,02871,41.59881,-71.276281,Elementary,,,355.0,53.6,,Open,PSS 2021-22
+Private,PSS_043,The Pennfield School,Nonsectarian,Portsmouth,02871,41.552581,-71.251871,Elementary,,,119.0,16.5,,Open,PSS 2021-22
+Private,PSS_044,Bishop Mcvinney Catholic Regional School,Catholic,Providence,02905,41.801991,-71.41527,Elementary,,,148.0,9.0,,Open,PSS 2021-22
+Private,PSS_045,Blessed Sacrament School,Catholic,Providence,02908,41.82902,-71.443051,Elementary,,,119.0,10.6,,Open,PSS 2021-22
+Private,PSS_046,Bradley School Providence,Nonsectarian,Providence,02903,41.82155,-71.421301,Combined,,,142.0,18.3,,Open,PSS 2021-22
+Private,PSS_047,Community Preparatory School,Nonsectarian,Providence,02905,41.811134,-71.416411,Elementary,,,123.0,11.1,,Open,PSS 2021-22
+Private,PSS_048,French-American School Of Rhode Island,Nonsectarian,Providence,02906,41.821754,-71.396936,Elementary,,,129.0,15.0,,Open,PSS 2021-22
+Private,PSS_049,Jewish Community Day School Of Rhode Island,Other religious,Providence,02906,41.841527,-71.396332,Elementary,,,73.0,13.9,,Open,PSS 2021-22
+Private,PSS_050,La Salle Academy,Catholic,Providence,02908,41.842304,-71.4458,Combined,,,1460.0,107.5,,Open,PSS 2021-22
+Private,PSS_051,Lincoln School,Other religious,Providence,02906,41.833081,-71.382968,Combined,,,319.0,60.6,,Open,PSS 2021-22
+Private,PSS_052,Montessori Childrens House,Nonsectarian,Providence,02906,41.83523,-71.386681,Elementary,,,60.0,12.0,,Open,PSS 2021-22
+Private,PSS_053,Mount Pleasant Academy,Nonsectarian,Providence,02908,41.83239,-71.450031,Elementary,,,24.0,11.1,,Open,PSS 2021-22
+Private,PSS_054,Ocean Tides School,Nonsectarian,Providence,02906,41.854052,-71.398625,Secondary,,,18.0,7.3,,Open,PSS 2021-22
+Private,PSS_055,Providence Hebrew Day School,Other religious,Providence,29063,41.843953,-71.392714,Combined,,,111.0,19.8,,Open,PSS 2021-22
+Private,PSS_056,School One,Nonsectarian,Providence,29065,41.83483,-71.385009,Secondary,,,74.0,13.9,,Open,PSS 2021-22
+Private,PSS_057,St Augustine School,Catholic,Providence,02908,41.845207,-71.453252,Elementary,,,234.0,25.6,,Open,PSS 2021-22
+Private,PSS_058,St Patrick Academy,Catholic,Providence,02908,41.83245,-71.419621,Secondary,,,82.0,6.4,,Open,PSS 2021-22
+Private,PSS_059,St Pius V School,Catholic,Providence,02908,41.84089,-71.436531,Elementary,,,205.0,16.4,,Open,PSS 2021-22
+Private,PSS_060,St Thomas Regional School,Catholic,Providence,02911,41.83665,-71.467631,Elementary,,,127.0,10.0,,Open,PSS 2021-22
+Private,PSS_061,The Croft School,Nonsectarian,Providence,02906,41.82909,-71.387931,Elementary,,,95.0,12.4,,Open,PSS 2021-22
+Private,PSS_062,The Grace School,Nonsectarian,Providence,02905,41.801248,-71.405412,Elementary,,,112.0,19.9,,Open,PSS 2021-22
+Private,PSS_063,The Groden Center,Nonsectarian,Providence,29061,41.840602,-71.400191,Combined,,,73.0,9.0,,Open,PSS 2021-22
+Private,PSS_064,The San Miguel School,Nonsectarian,Providence,02904,41.851758,-71.422545,Elementary,,,64.0,8.8,,Open,PSS 2021-22
+Private,PSS_065,Wheeler School,Nonsectarian,Providence,02906,41.82907,-71.398151,Combined,,,736.0,177.5,,Open,PSS 2021-22
+Private,PSS_066,St Mary Academy-Bay View,Catholic,Riverside,02915,41.79107,-71.365161,Combined,,,402.0,44.1,,Open,PSS 2021-22
+Private,PSS_067,St Margaret School,Catholic,Rumford,02916,41.844221,-71.35033,Elementary,,,136.0,12.6,,Open,PSS 2021-22
+Private,PSS_068,The Wolf School,Nonsectarian,Rumford,02916,41.848284,-71.34786,Elementary,,,66.0,8.0,,Open,PSS 2021-22
+Private,PSS_069,The Little Village Schoolhouse,Nonsectarian,Smithfield,02917,41.892804,-71.542751,Elementary,,,18.0,2.3,,Open,PSS 2021-22
+Private,PSS_070,Bradley School-South,Nonsectarian,Wakefield,02879,41.450917,-71.473339,Combined,,,44.0,7.3,,Open,PSS 2021-22
+Private,PSS_071,Monsignor Matthew Clarke Catholic Regional School,Catholic,Wakefield,02879,41.442631,-71.477752,Elementary,,,232.0,18.1,,Open,PSS 2021-22
+Private,PSS_072,"(Christian Brethren Of Warwick, Inc. Dba)",Other religious,Warwick,02886,41.69813,-71.429661,Elementary,,,8.0,0.6,,Open,PSS 2021-22
+Private,PSS_073,Bishop Hendricken High School,Catholic,Warwick,02889,41.705595,-71.396186,Secondary,,,658.0,43.9,,Open,PSS 2021-22
+Private,PSS_074,Eleanor Briggs School,Nonsectarian,Warwick,02886,41.691009,-71.432575,Combined,,,27.0,7.0,,Open,PSS 2021-22
+Private,PSS_075,Precious Angels Child Care Center,Nonsectarian,Warwick,02888,41.755546,-71.433848,Elementary,,,267.0,35.0,,Open,PSS 2021-22
+Private,PSS_076,Progressive Learning For Children,Nonsectarian,Warwick,02886,41.70139,-71.471011,Elementary,,,11.0,1.0,,Open,PSS 2021-22
+Private,PSS_077,St Kevin School,Catholic,Warwick,02889,41.71231,-71.391791,Elementary,,,170.0,11.9,,Open,PSS 2021-22
+Private,PSS_078,St Peter School,Catholic,Warwick,02888,41.75455,-71.392528,Elementary,,,139.0,16.1,,Open,PSS 2021-22
+Private,PSS_079,St Rose Of Lima School,Catholic,Warwick,02886,41.707692,-71.431866,Elementary,,,174.0,15.1,,Open,PSS 2021-22
+Private,PSS_080,Greenwich Village School,Nonsectarian,West Greenwich,02817,41.647306,-71.609639,Elementary,,,11.0,4.3,,Open,PSS 2021-22
+Private,PSS_081,Islamic School Of Rhode Island,Other religious,West Warwick,02893,41.72399,-71.491541,Elementary,,,114.0,14.6,,Open,PSS 2021-22
+Private,PSS_082,St Joseph School,Catholic,West Warwick,02893,41.725433,-71.492663,Elementary,,,180.0,11.3,,Open,PSS 2021-22
+Private,PSS_083,Good Shepherd Catholic School,Catholic,Woonsocket,02895,42.002993,-71.479924,Elementary,,,176.0,11.6,,Open,PSS 2021-22
+Private,PSS_084,Gr Woonsocket Catholic Regional,Catholic,Woonsocket,02895,42.002993,-71.479924,Elementary,,,176.0,11.6,,Open,PSS 2021-22
+Private,PSS_085,Hillside Alternative Program,Nonsectarian,Woonsocket,02895,42.002431,-71.514011,Combined,,,28.0,8.0,,Open,PSS 2021-22
+Private,PSS_086,Mount St Charles Academy,Catholic,Woonsocket,02895,41.99463,-71.501031,Combined,,,570.0,43.1,,Open,PSS 2021-22
+Traditional public,440015000122,Ashaway Elementary School,Chariho,Ashaway,02804,41.420569,-71.791192,Primary,0.0,4.0,212.0,14.0,35.4,Open,CCD 2024
+Traditional public,440003000001,Barrington High School,Barrington,Barrington,02806,41.747017,-71.320811,High,9.0,12.0,1098.0,87.0,12.7,Open,CCD 2024
+Traditional public,440003000002,Barrington Middle School,Barrington,Barrington,02806,41.744419,-71.332921,Middle,6.0,8.0,763.0,62.0,11.9,Open,CCD 2024
+Traditional public,440003000003,Hampden Meadows School,Barrington,Barrington,02806,41.753891,-71.302506,Primary,4.0,5.0,471.0,30.0,12.7,Open,CCD 2024
+Traditional public,440003000004,Nayatt School,Barrington,Barrington,02806,41.729577,-71.306138,Primary,0.0,3.0,356.0,25.0,6.5,Open,CCD 2024
+Traditional public,440003000006,Primrose Hill School,Barrington,Barrington,02806,41.753972,-71.329766,Primary,-1.0,3.0,329.0,25.0,16.4,Open,CCD 2024
+Traditional public,440003000005,Sowams Elementary School,Barrington,Barrington,02806,41.757102,-71.294328,Primary,0.0,3.0,250.0,19.0,8.8,Open,CCD 2024
+Traditional public,440069000149,Block Island School,New Shoreham,Block Island,02807,41.164408,-71.560898,Other,0.0,12.0,126.0,21.0,39.7,Open,CCD 2024
+Traditional public,440006500468,Colt Andrews School,Bristol Warren,Bristol,02809,41.672475,-71.276718,Primary,0.0,5.0,307.0,22.0,48.2,Open,CCD 2024
+Traditional public,440006500012,Guiteras School,Bristol Warren,Bristol,02809,41.677407,-71.276937,Primary,2.0,5.0,123.0,13.0,40.7,Open,CCD 2024
+Traditional public,440006500009,Mt. Hope High School,Bristol Warren,Bristol,02809,41.687712,-71.269308,High,9.0,12.0,787.0,63.0,40.0,Open,CCD 2024
+Traditional public,440006500016,Rockwell School,Bristol Warren,Bristol,02809,41.698508,-71.280377,Primary,0.0,5.0,260.0,15.0,17.7,Open,CCD 2024
+Traditional public,440012000024,Calcutt Middle School,Central Falls,Central Falls,02863,41.889876,-71.391954,Middle,6.0,8.0,476.0,35.0,93.3,Open,CCD 2024
+Traditional public,440012000026,Central Falls Sr High,Central Falls,Central Falls,02863,41.886629,-71.391186,High,9.0,12.0,788.0,54.0,94.9,Open,CCD 2024
+Traditional public,440012000027,Ella Risk School,Central Falls,Central Falls,02863,41.8898,-71.399228,Primary,0.0,5.0,414.0,37.0,90.1,Open,CCD 2024
+Traditional public,440012000025,G. Harold Hunt School,Central Falls,Central Falls,02863,41.885243,-71.398432,,-1.0,-1.0,162.0,12.0,85.8,Open,CCD 2024
+Traditional public,440012000529,Raices Dual Language Academy,Central Falls,Central Falls,02863,41.896848,-71.389278,Primary,0.0,5.0,206.0,17.0,96.6,Open,CCD 2024
+Traditional public,440012000385,Veterans Memorial Elementary,Central Falls,Central Falls,02863,41.88873,-71.396,Primary,0.0,5.0,406.0,32.0,94.3,Open,CCD 2024
+Traditional public,440012000542,Raices Upper Dual Language Acd,Central Falls,Central falls,02863,41.889876,-71.391954,Middle,6.0,8.0,63.0,5.0,98.4,Open,CCD 2024
+Traditional public,440015000030,Charlestown Elementary School,Chariho,Charlestown,02813,41.449787,-71.65539,Primary,0.0,4.0,246.0,19.0,31.3,Open,CCD 2024
+Traditional public,440045000403,West Glocester Elementary,Glocester,Chepachet,02814,41.912146,-71.778224,Primary,-1.0,5.0,243.0,18.0,28.4,Open,CCD 2024
+Traditional public,440096000252,Clayville School,Scituate,Clayville,02815,41.772051,-71.670962,Primary,-1.0,5.0,140.0,11.0,22.1,Open,CCD 2024
+Traditional public,440021000465,Alan Shawn Feinstein MS of Cov,Coventry,Coventry,02816,41.696637,-71.561237,Middle,6.0,8.0,944.0,80.0,36.9,Open,CCD 2024
+Traditional public,440021000031,Blackrock School,Coventry,Coventry,02816,41.71308,-71.551872,Primary,-1.0,5.0,322.0,22.0,55.3,Open,CCD 2024
+Traditional public,440021000032,Coventry High School,Coventry,Coventry,02816,41.684879,-71.591138,High,9.0,12.0,1201.0,98.0,37.6,Open,CCD 2024
+Traditional public,440021000035,Hopkins Hill School,Coventry,Coventry,02816,41.673506,-71.560172,Primary,0.0,5.0,323.0,24.0,47.4,Open,CCD 2024
+Traditional public,440021000365,Tiogue School,Coventry,Coventry,02816,41.677148,-71.543225,Primary,0.0,5.0,328.0,25.0,45.4,Open,CCD 2024
+Traditional public,440021000034,Washington Oak School,Coventry,Coventry,02816,41.721316,-71.606578,Primary,-1.0,5.0,594.0,36.0,25.6,Open,CCD 2024
+Traditional public,440021000041,Western Coventry School,Coventry,Coventry,02816,41.695934,-71.689278,Primary,0.0,5.0,298.0,21.0,31.2,Open,CCD 2024
+Traditional public,440024000042,Arlington School,Cranston,Cranston,02920,41.79426,-71.455005,Primary,-1.0,5.0,209.0,16.0,77.5,Open,CCD 2024
+Traditional public,440024000509,Cranston Early Learning Center,Cranston,Cranston,02910,41.786111,-71.43736,,-1.0,-1.0,49.0,5.0,32.7,Open,CCD 2024
+Traditional public,440024000044,Cranston High School East,Cranston,Cranston,02910,41.780367,-71.437812,High,9.0,12.0,1525.0,116.0,73.9,Open,CCD 2024
+Traditional public,440024000045,Cranston High School West,Cranston,Cranston,02920,41.771918,-71.476059,High,9.0,12.0,1653.0,107.0,36.2,Open,CCD 2024
+Traditional public,440024000047,Eden Park School,Cranston,Cranston,02910,41.772399,-71.445857,Primary,0.0,5.0,243.0,18.0,66.7,Open,CCD 2024
+Traditional public,440024000048,Edgewood Highland,Cranston,Cranston,02905,41.78131,-71.396623,Primary,-1.0,5.0,276.0,20.0,67.4,Open,CCD 2024
+Traditional public,440024000049,Edward S. Rhodes School,Cranston,Cranston,02905,41.774849,-71.396384,Primary,0.0,5.0,287.0,19.0,46.0,Open,CCD 2024
+Traditional public,440024000050,Garden City School,Cranston,Cranston,02920,41.761859,-71.451621,Primary,0.0,5.0,530.0,38.0,53.2,Open,CCD 2024
+Traditional public,440024000351,George J. Peters School,Cranston,Cranston,02920,41.782978,-71.470744,Primary,0.0,5.0,244.0,18.0,62.3,Open,CCD 2024
+Traditional public,440024000051,Gladstone Street School,Cranston,Cranston,02920,41.798408,-71.450343,Primary,0.0,5.0,402.0,35.0,88.6,Open,CCD 2024
+Traditional public,440024000052,Glen Hills School,Cranston,Cranston,02920,41.756472,-71.46776,Primary,-1.0,5.0,270.0,19.0,33.3,Open,CCD 2024
+Traditional public,440024000504,Hope Highlands Middle School,Cranston,Cranston,02921,41.753181,-71.508067,Middle,6.0,8.0,366.0,28.0,19.4,Open,CCD 2024
+Traditional public,440024000053,Hugh B. Bain Middle School,Cranston,Cranston,02910,41.786231,-71.452286,Middle,6.0,8.0,527.0,50.0,88.2,Open,CCD 2024
+Traditional public,440024000059,Oak Lawn School,Cranston,Cranston,02920,41.746638,-71.482771,Primary,0.0,5.0,247.0,15.0,15.8,Open,CCD 2024
+Traditional public,440024000277,Orchard Farms El. School,Cranston,Cranston,02921,41.776368,-71.530183,Primary,-1.0,5.0,444.0,31.0,16.4,Open,CCD 2024
+Traditional public,440024000060,Park View Middle School,Cranston,Cranston,02910,41.772608,-71.416216,Middle,6.0,8.0,711.0,58.0,65.8,Open,CCD 2024
+Traditional public,440024000063,Stadium School,Cranston,Cranston,02910,41.788941,-71.447325,Primary,0.0,5.0,227.0,18.0,77.5,Open,CCD 2024
+Traditional public,440024000064,Stone Hill School,Cranston,Cranston,02920,41.787225,-71.484148,Primary,0.0,5.0,234.0,20.0,46.6,Open,CCD 2024
+Traditional public,440024000068,W. R. Dutemple School,Cranston,Cranston,02910,41.780915,-71.430684,Primary,0.0,5.0,254.0,19.0,70.5,Open,CCD 2024
+Traditional public,440024000067,Western Hills Middle School,Cranston,Cranston,02920,41.775176,-71.47714,Middle,6.0,8.0,727.0,52.0,47.3,Open,CCD 2024
+Traditional public,440024000069,Woodridge School,Cranston,Cranston,02920,41.772312,-71.458847,Primary,0.0,5.0,260.0,20.0,43.1,Open,CCD 2024
+Traditional public,440027000070,Ashton School,Cumberland,Cumberland,02864,41.965475,-71.446635,Primary,0.0,5.0,429.0,28.0,17.9,Open,CCD 2024
+Traditional public,440027000039,B.F. Norton Elementary School,Cumberland,Cumberland,02864,41.908788,-71.394475,Primary,0.0,5.0,374.0,31.0,52.9,Open,CCD 2024
+Traditional public,440027000075,Community School,Cumberland,Cumberland,02864,41.976725,-71.39865,Primary,0.0,5.0,545.0,33.0,9.0,Open,CCD 2024
+Traditional public,440027000076,Cumberland High School,Cumberland,Cumberland,02864,41.964986,-71.447817,High,9.0,12.0,1428.0,105.0,30.4,Open,CCD 2024
+Traditional public,440027000188,Cumberland Preschool Center,Cumberland,Cumberland,02864,41.965475,-71.446635,,-1.0,-1.0,109.0,7.0,26.6,Open,CCD 2024
+Traditional public,440027000081,Garvin Memorial,Cumberland,Cumberland,02864,41.92863,-71.401281,Primary,0.0,5.0,422.0,33.0,23.9,Open,CCD 2024
+Traditional public,440027000077,John J. McLaughlin Cumberland,Cumberland,Cumberland,02864,41.975373,-71.459417,Primary,0.0,5.0,413.0,29.0,22.3,Open,CCD 2024
+Traditional public,440027000078,Joseph L. McCourt MS,Cumberland,Cumberland,02864,41.918366,-71.392787,Middle,6.0,8.0,482.0,46.0,44.6,Open,CCD 2024
+Traditional public,440027000082,North Cumberland Middle,Cumberland,Cumberland,02864,41.982281,-71.425548,Middle,6.0,8.0,643.0,49.0,13.8,Open,CCD 2024
+Traditional public,440030000087,Archie R. Cole MS,East Greenwich,East Greenwich,02818,41.651605,-71.462707,Middle,6.0,8.0,597.0,49.0,14.1,Open,CCD 2024
+Traditional public,440030000086,East Greenwich High,East Greenwich,East Greenwich,02818,41.638887,-71.483626,High,9.0,12.0,742.0,60.0,12.4,Open,CCD 2024
+Traditional public,440030000088,Frenchtown School,East Greenwich,East Greenwich,02818,41.62522,-71.50504,Primary,0.0,2.0,273.0,20.0,12.8,Open,CCD 2024
+Traditional public,440030000377,George Hanaford School,East Greenwich,East Greenwich,02818,41.650232,-71.46883,Primary,3.0,5.0,276.0,20.0,9.1,Open,CCD 2024
+Traditional public,440030000089,James H. Eldredge School,East Greenwich,East Greenwich,02818,41.657433,-71.456144,Primary,3.0,5.0,307.0,20.0,9.8,Open,CCD 2024
+Traditional public,440030000090,Meadowbrook Farms School,East Greenwich,East Greenwich,02818,41.636245,-71.481379,Primary,-1.0,2.0,281.0,22.0,10.7,Open,CCD 2024
+Traditional public,440033000091,Agnes B. Hennessey School,East Providence,East Providence,02914,41.812453,-71.382422,Primary,0.0,5.0,242.0,21.0,66.1,Open,CCD 2024
+Traditional public,440033000097,East Providence High,East Providence,East Providence,02914,41.81923,-71.353211,High,9.0,12.0,1691.0,109.0,52.7,Open,CCD 2024
+Traditional public,440033000348,Edward Martin Middle,East Providence,East Providence,02914,41.807066,-71.365756,Middle,6.0,8.0,564.0,48.0,55.0,Open,CCD 2024
+Traditional public,440033000109,Emma G. Whiteknact School,East Providence,East Providence,02914,41.815868,-71.364839,Primary,0.0,5.0,216.0,18.0,69.0,Open,CCD 2024
+Traditional public,440033000099,Kent Heights School,East Providence,East Providence,02914,41.80159,-71.361773,Primary,0.0,5.0,251.0,19.0,56.2,Open,CCD 2024
+Traditional public,440033000103,Orlo Avenue School,East Providence,East Providence,02914,41.825095,-71.364411,Primary,0.0,5.0,245.0,19.0,64.5,Open,CCD 2024
+Traditional public,440033000106,Silver Spring School,East Providence,East Providence,02914,41.797963,-71.369332,Primary,0.0,5.0,223.0,18.0,55.2,Open,CCD 2024
+Traditional public,440036000111,Metcalf School,Exeter-West Greenwich,Exeter,02822,41.599801,-71.643075,Primary,2.0,6.0,522.0,41.0,25.1,Open,CCD 2024
+Traditional public,440036000038,Wawaloam School,Exeter-West Greenwich,Exeter,02822,41.584927,-71.618105,Primary,0.0,1.0,215.0,17.0,19.5,Open,CCD 2024
+Traditional public,440039000114,Capt. Isaac Paine El. School,Foster,Foster,02825,41.813955,-71.732763,Primary,-1.0,5.0,241.0,21.0,25.3,Open,CCD 2024
+Traditional public,440009000018,Austin T. Levy School,Burrillville,Harrisville,02830,41.965556,-71.678179,Primary,0.0,1.0,254.0,23.0,47.6,Open,CCD 2024
+Traditional public,440009000019,Burrillville High School,Burrillville,Harrisville,02830,41.968197,-71.662387,High,9.0,12.0,634.0,53.0,37.2,Open,CCD 2024
+Traditional public,440009000383,Burrillville Middle School,Burrillville,Harrisville,02830,41.981659,-71.622293,Middle,6.0,8.0,469.0,42.0,43.7,Open,CCD 2024
+Traditional public,440009000022,William Callahan School,Burrillville,Harrisville,02830,41.969033,-71.683301,Primary,2.0,5.0,310.0,22.0,49.7,Open,CCD 2024
+Traditional public,440096000253,Hope School,Scituate,Hope,02831,41.735911,-71.562703,Primary,0.0,5.0,163.0,16.0,25.8,Open,CCD 2024
+Traditional public,440015000349,Hope Valley Elementary School,Chariho,Hope Valley,02832,41.510711,-71.713603,Primary,1.0,4.0,226.0,12.0,18.6,Open,CCD 2024
+Traditional public,440051000123,Jamestown School-Lawn,Jamestown,Jamestown,02835,41.498671,-71.378437,Middle,5.0,8.0,189.0,21.0,11.6,Open,CCD 2024
+Traditional public,440051000404,Jamestown School-Melrose,Jamestown,Jamestown,02835,41.500692,-71.380315,Primary,-1.0,4.0,207.0,19.0,9.7,Open,CCD 2024
+Traditional public,440054000125,Brown Avenue School,Johnston,Johnston,02919,41.834391,-71.548031,Primary,1.0,5.0,251.0,21.0,43.0,Open,CCD 2024
+Traditional public,440054000452,Early Childhood Center,Johnston,Johnston,02919,41.829989,-71.501696,Primary,0.0,0.0,201.0,18.0,52.7,Open,CCD 2024
+Traditional public,440054000127,Graniteville School,Johnston,Johnston,02919,41.863562,-71.493246,,-1.0,-1.0,152.0,10.0,36.8,Open,CCD 2024
+Traditional public,440054000128,Johnston Senior High,Johnston,Johnston,02919,41.831949,-71.501621,High,9.0,12.0,826.0,80.0,55.7,Open,CCD 2024
+Traditional public,440054000129,Nicholas A. Ferri Middle,Johnston,Johnston,02919,41.829989,-71.501696,Middle,6.0,8.0,720.0,59.0,59.2,Open,CCD 2024
+Traditional public,440054000130,Sarah Dyer Barnes School,Johnston,Johnston,02919,41.837613,-71.486547,Primary,0.0,5.0,266.0,24.0,51.1,Open,CCD 2024
+Traditional public,440054000131,Thornton School,Johnston,Johnston,02919,41.798088,-71.479217,Primary,1.0,5.0,340.0,31.0,68.8,Open,CCD 2024
+Traditional public,440054000132,Winsor Hill School,Johnston,Johnston,02919,41.817008,-71.476102,Primary,1.0,5.0,380.0,32.0,60.5,Open,CCD 2024
+Traditional public,440000400379,Davies Career-Tech High School,Davies Career and Tech,Lincoln,02865,41.903011,-71.456978,High,9.0,12.0,898.0,76.0,58.9,Open,CCD 2024
+Traditional public,440057000134,Lincoln Central Elem.,Lincoln,Lincoln,02865,41.928745,-71.445772,Primary,0.0,5.0,416.0,24.0,12.7,Open,CCD 2024
+Traditional public,440057000062,Lincoln Middle School,Lincoln,Lincoln,02865,41.910341,-71.473548,Middle,6.0,8.0,773.0,48.0,38.3,Open,CCD 2024
+Traditional public,440057000135,Lincoln Senior High School,Lincoln,Lincoln,02865,41.936721,-71.450534,High,9.0,12.0,973.0,66.0,33.5,Open,CCD 2024
+Traditional public,440057000137,Lonsdale Elementary,Lincoln,Lincoln,02865,41.908528,-71.416301,Primary,0.0,5.0,286.0,18.0,33.6,Open,CCD 2024
+Traditional public,440057000139,Saylesville Elementary,Lincoln,Lincoln,02865,41.892938,-71.414021,Primary,0.0,5.0,312.0,22.0,35.3,Open,CCD 2024
+Traditional public,440060000140,Wilbur and McMahon Schools,Little Compton,Little Compton,02837,41.509536,-71.17369,Primary,-1.0,8.0,216.0,29.0,18.1,Open,CCD 2024
+Traditional public,440057000138,Northern Lincoln Elem.,Lincoln,Manville,02838,41.963091,-71.467942,Primary,-1.0,5.0,495.0,38.0,46.3,Open,CCD 2024
+Traditional public,440063000141,Aquidneck School,Middletown,Middletown,02842,41.496666,-71.281263,Primary,-1.0,3.0,302.0,24.0,28.1,Open,CCD 2024
+Traditional public,440063000405,Forest Avenue School,Middletown,Middletown,02842,41.525732,-71.287124,Primary,0.0,3.0,304.0,25.0,35.9,Open,CCD 2024
+Traditional public,440063000471,Gaudet Learning Academy,Middletown,Middletown,02842,41.519206,-71.279917,Primary,4.0,5.0,259.0,21.0,40.5,Open,CCD 2024
+Traditional public,440063000144,Gaudet Middle School,Middletown,Middletown,02842,41.519206,-71.279917,Middle,6.0,8.0,431.0,39.0,39.9,Open,CCD 2024
+Traditional public,440063000147,Middletown High School,Middletown,Middletown,02842,41.517954,-71.287047,High,9.0,12.0,523.0,49.0,33.3,Open,CCD 2024
+Traditional public,440066000150,Narragansett Elementary,Narragansett,Narragansett,02882,41.437683,-71.471969,Primary,-1.0,4.0,331.0,30.0,26.6,Open,CCD 2024
+Traditional public,440066000151,Narragansett High School,Narragansett,Narragansett,02882,41.43032,-71.469925,High,9.0,12.0,372.0,43.0,23.9,Open,CCD 2024
+Traditional public,440066000396,Narragansett Pier School,Narragansett,Narragansett,02882,41.428764,-71.469878,Middle,5.0,8.0,263.0,20.0,30.0,Open,CCD 2024
+Traditional public,440072000485,Claiborne Pell Elementary,Newport,Newport,02840,41.508352,-71.304961,Primary,-1.0,4.0,657.0,60.0,74.3,Open,CCD 2024
+Traditional public,440072000155,Frank E. Thompson Middle,Newport,Newport,02840,41.491869,-71.311135,Middle,5.0,8.0,499.0,48.0,77.8,Open,CCD 2024
+Traditional public,440072000159,Rogers High School,Newport,Newport,02840,41.46846,-71.321108,High,9.0,12.0,599.0,58.0,69.3,Open,CCD 2024
+Traditional public,440075000165,Davisville Middle School,North Kingstown,North Kingstown,02852,41.619459,-71.464806,Middle,6.0,8.0,477.0,41.0,36.9,Open,CCD 2024
+Traditional public,440075000398,Fishing Cove El. School,North Kingstown,North Kingstown,02852,41.588046,-71.444811,Primary,-1.0,5.0,346.0,23.0,31.2,Open,CCD 2024
+Traditional public,440075000166,Forest Park El. School,North Kingstown,North Kingstown,02852,41.621429,-71.452637,Primary,0.0,5.0,264.0,21.0,24.6,Open,CCD 2024
+Traditional public,440075000167,Hamilton School,North Kingstown,North Kingstown,02852,41.547653,-71.440462,Primary,0.0,5.0,447.0,29.0,11.0,Open,CCD 2024
+Traditional public,440075000168,North Kingstown Sr. High,North Kingstown,North Kingstown,02852,41.555858,-71.44854,High,9.0,12.0,1278.0,107.0,22.5,Open,CCD 2024
+Traditional public,440075000170,Stony Lane El. School,North Kingstown,North Kingstown,02852,41.593894,-71.486101,Primary,0.0,5.0,385.0,27.0,18.2,Open,CCD 2024
+Traditional public,440075000169,Suzanne M. Henseler Quidnesset,North Kingstown,North Kingstown,02852,41.615075,-71.438622,Primary,0.0,5.0,212.0,24.0,65.1,Open,CCD 2024
+Traditional public,440075000172,Wickford Middle School,North Kingstown,North Kingstown,02852,41.567748,-71.460416,Middle,6.0,8.0,339.0,29.0,24.8,Open,CCD 2024
+Traditional public,440078000173,Birchwood Middle School,North Providence,North Providence,02904,41.868306,-71.451115,Middle,6.0,8.0,390.0,31.0,56.4,Open,CCD 2024
+Traditional public,440078000174,Centredale School,North Providence,North Providence,02911,41.857273,-71.47716,Primary,-1.0,5.0,221.0,18.0,60.6,Open,CCD 2024
+Traditional public,440078000178,Dr. Edward Ricci School,North Providence,North Providence,02911,41.847419,-71.470692,Middle,6.0,8.0,378.0,31.0,60.1,Open,CCD 2024
+Traditional public,440078000176,Greystone School,North Providence,North Providence,02911,41.861687,-71.483101,Primary,-1.0,5.0,303.0,23.0,42.2,Open,CCD 2024
+Traditional public,440078000177,James L. McGuire School,North Providence,North Providence,02911,41.854598,-71.467082,Primary,0.0,5.0,384.0,25.0,48.7,Open,CCD 2024
+Traditional public,440078000182,Joseph A. Whelan School,North Providence,North Providence,02904,41.865481,-71.441931,Primary,0.0,5.0,252.0,19.0,58.7,Open,CCD 2024
+Traditional public,440078000180,North Providence High,North Providence,North Providence,02904,41.86058,-71.459465,High,9.0,12.0,1085.0,85.0,52.4,Open,CCD 2024
+Traditional public,440078000181,Stephen Olney School,North Providence,North Providence,02904,41.862396,-71.452279,Primary,0.0,5.0,388.0,28.0,47.4,Open,CCD 2024
+Traditional public,440045000119,Fogarty Memorial,Glocester,North Scituate,02857,41.877108,-71.634328,Primary,0.0,5.0,318.0,21.0,17.6,Open,CCD 2024
+Traditional public,440096000254,North Scituate School,Scituate,North Scituate,02857,41.83349,-71.584483,Primary,0.0,5.0,238.0,17.0,24.8,Open,CCD 2024
+Traditional public,440042000116,Ponaganset High School,Foster-Glocester,North Scituate,02857,41.865477,-71.715072,High,9.0,12.0,869.0,68.0,24.1,Open,CCD 2024
+Traditional public,440042000117,Ponaganset Middle School,Foster-Glocester,North Scituate,02857,41.867933,-71.676724,Middle,6.0,8.0,396.0,32.0,25.3,Open,CCD 2024
+Traditional public,440096000255,Scituate High School,Scituate,North Scituate,02857,41.824592,-71.620875,High,9.0,12.0,387.0,36.0,23.5,Open,CCD 2024
+Traditional public,440096000036,Scituate Middle School,Scituate,North Scituate,02857,41.824592,-71.620875,Middle,6.0,8.0,260.0,23.0,21.9,Open,CCD 2024
+Traditional public,440081000186,North Smitfield HS,North Smithfield,North Smithfield,02896,41.953963,-71.544601,High,9.0,12.0,532.0,44.0,24.8,Open,CCD 2024
+Traditional public,440081000399,North Smithfield Elementary,North Smithfield,North Smithfield,02896,41.940002,-71.538847,Primary,-1.0,4.0,583.0,42.0,24.5,Open,CCD 2024
+Traditional public,440081000469,North Smithfield MS,North Smithfield,North Smithfield,02896,41.95341,-71.546491,Middle,5.0,8.0,502.0,40.0,25.9,Open,CCD 2024
+Traditional public,440009000057,Steere Farm Elementary School,Burrillville,Pascoag,02859,41.938604,-71.674872,Primary,2.0,5.0,268.0,20.0,35.4,Open,CCD 2024
+Traditional public,440084000187,Agnes E. Little School,Pawtucket,Pawtucket,02860,41.876378,-71.371855,Primary,0.0,5.0,320.0,28.0,84.1,Open,CCD 2024
+Traditional public,440084000201,Charles E. Shea High School,Pawtucket,Pawtucket,02860,41.865226,-71.388072,High,9.0,12.0,770.0,58.0,81.3,Open,CCD 2024
+Traditional public,440084000190,Cunningham School,Pawtucket,Pawtucket,02860,41.875049,-71.400537,Primary,0.0,5.0,355.0,27.0,93.2,Open,CCD 2024
+Traditional public,440084000189,Curvin-McCabe School,Pawtucket,Pawtucket,02861,41.888321,-71.364773,Primary,-1.0,5.0,353.0,31.0,74.2,Open,CCD 2024
+Traditional public,440084000191,Elizabeth Baldwin School,Pawtucket,Pawtucket,02861,41.887377,-71.354975,Primary,0.0,5.0,320.0,27.0,85.3,Open,CCD 2024
+Traditional public,440084000192,Fallon Memorial School,Pawtucket,Pawtucket,02861,41.868389,-71.359828,Primary,-1.0,5.0,520.0,42.0,73.7,Open,CCD 2024
+Traditional public,440084000193,Flora S. Curtis School,Pawtucket,Pawtucket,02861,41.892431,-71.347864,Primary,-1.0,5.0,331.0,25.0,52.3,Open,CCD 2024
+Traditional public,440084000194,Francis J. Varieur School,Pawtucket,Pawtucket,02860,41.866019,-71.38331,Primary,-1.0,5.0,270.0,23.0,78.5,Open,CCD 2024
+Traditional public,440084000195,Henry J. Winters School,Pawtucket,Pawtucket,02860,41.886507,-71.374866,Primary,-1.0,5.0,550.0,35.0,86.2,Open,CCD 2024
+Traditional public,440084000466,Jacqueline M. Walsh School,Pawtucket,Pawtucket,02860,41.87564,-71.370951,High,9.0,12.0,173.0,16.0,45.1,Open,CCD 2024
+Traditional public,440084000197,Joseph Jenks Middle School,Pawtucket,Pawtucket,02860,41.87564,-71.370951,Middle,6.0,8.0,697.0,43.0,80.5,Open,CCD 2024
+Traditional public,440084000198,Lyman B. Goff Middle School,Pawtucket,Pawtucket,02861,41.88161,-71.354656,Middle,6.0,8.0,637.0,43.0,71.4,Open,CCD 2024
+Traditional public,440084000199,Nathanael Greene School,Pawtucket,Pawtucket,02861,41.867893,-71.412225,Primary,-1.0,5.0,397.0,30.0,74.3,Open,CCD 2024
+Traditional public,440084000196,Potter-Burns School,Pawtucket,Pawtucket,02861,41.881848,-71.353773,Primary,0.0,5.0,430.0,30.0,65.6,Open,CCD 2024
+Traditional public,440084000200,Samuel Slater Middle School,Pawtucket,Pawtucket,02860,41.874423,-71.400316,Middle,6.0,8.0,590.0,46.0,86.9,Open,CCD 2024
+Traditional public,440084000202,William E. Tolman High,Pawtucket,Pawtucket,02860,41.88043,-71.380632,High,9.0,12.0,995.0,68.0,71.3,Open,CCD 2024
+Traditional public,440102000264,Peace Dale School,South Kingstown,Peace Dale,02879,41.45431,-71.500896,Primary,-1.0,5.0,412.0,36.0,37.6,Open,CCD 2024
+Traditional public,440087000204,Howard Hathaway School,Portsmouth,Portsmouth,02871,41.616731,-71.244563,Primary,0.0,4.0,409.0,30.0,24.0,Open,CCD 2024
+Traditional public,440087000206,Melville School,Portsmouth,Portsmouth,02871,41.582653,-71.270166,Primary,-1.0,4.0,316.0,26.0,15.8,Open,CCD 2024
+Traditional public,440087000207,Portsmouth High School,Portsmouth,Portsmouth,02871,41.612596,-71.249406,High,9.0,12.0,785.0,69.0,19.0,Open,CCD 2024
+Traditional public,440087000208,Portsmouth Middle School,Portsmouth,Portsmouth,02871,41.555224,-71.285284,Middle,5.0,8.0,604.0,51.0,20.9,Open,CCD 2024
+Traditional public,440090000124,Alfred Lima Sr. El School,Providence,Providence,02907,41.803843,-71.42931,Primary,0.0,5.0,662.0,39.0,90.5,Open,CCD 2024
+Traditional public,440090000162,Anthony Carnevale Elementary,Providence,Providence,02909,41.81671,-71.46463,Primary,-1.0,5.0,519.0,39.0,84.2,Open,CCD 2024
+Traditional public,440090000213,Asa Messer El. School,Providence,Providence,02909,41.816304,-71.437284,Primary,-1.0,4.0,557.0,31.0,84.0,Open,CCD 2024
+Traditional public,440090000547,Aventure Academy,Providence,Providence,02904,41.850199,-71.419276,High,9.0,12.0,227.0,28.0,85.5,Open,CCD 2024
+Traditional public,440090000328,Bridge Academy,Providence,Providence,02903,41.815652,-71.421273,High,10.0,12.0,117.0,7.0,65.0,Open,CCD 2024
+Traditional public,440090000217,Central High School,Providence,Providence,02903,41.816536,-71.420862,High,9.0,12.0,1050.0,63.0,82.7,Open,CCD 2024
+Traditional public,440090000218,Classical High School,Providence,Providence,02903,41.817493,-71.420734,High,9.0,12.0,1116.0,65.0,60.9,Open,CCD 2024
+Traditional public,440090000156,Cornel Young & Charlotte Woods,Providence,Providence,02905,41.79668,-71.409862,Primary,-1.0,5.0,635.0,41.0,83.3,Open,CCD 2024
+Traditional public,440090000344,Dr. Jorge Alvarez HS,Providence,Providence,02907,41.795167,-71.430201,High,9.0,12.0,447.0,31.0,79.6,Open,CCD 2024
+Traditional public,440090000323,E-Cubed Academy,Providence,Providence,02904,41.85431,-71.434213,High,9.0,12.0,338.0,29.0,84.3,Open,CCD 2024
+Traditional public,440090000401,Esek Hopkins Middle,Providence,Providence,02904,41.848404,-71.419952,Middle,6.0,8.0,398.0,27.0,88.9,Open,CCD 2024
+Traditional public,440090000228,Frank D. Spaziano Elem School,Providence,Providence,02909,41.814217,-71.457402,Primary,-1.0,5.0,588.0,31.0,85.9,Open,CCD 2024
+Traditional public,440090000222,George J. West El. School,Providence,Providence,02908,41.830723,-71.450307,Primary,0.0,5.0,502.0,39.0,93.4,Open,CCD 2024
+Traditional public,440090000175,Governor Christopher DelSesto,Providence,Providence,02909,41.818512,-71.46555,Middle,6.0,8.0,818.0,48.0,87.8,Open,CCD 2024
+Traditional public,440090000216,Harry Kizirian Elementary,Providence,Providence,02908,41.836954,-71.4264,Primary,-1.0,5.0,434.0,26.0,89.4,Open,CCD 2024
+Traditional public,440090000224,Hope High School,Providence,Providence,02906,41.83473,-71.402076,High,9.0,12.0,775.0,63.0,85.0,Open,CCD 2024
+Traditional public,440090000237,Leviton Dual Language School,Providence,Providence,02907,41.802514,-71.429105,Primary,0.0,5.0,288.0,17.0,86.1,Open,CCD 2024
+Traditional public,440090000243,Lillian Feinstein El. School,Providence,Providence,02907,41.79423,-71.419178,Primary,0.0,5.0,429.0,24.0,85.5,Open,CCD 2024
+Traditional public,440090000230,Martin Luther King El. School,Providence,Providence,02906,41.837114,-71.403963,Primary,-1.0,5.0,430.0,25.0,76.5,Open,CCD 2024
+Traditional public,440090000231,Mary E. Fogarty El. School,Providence,Providence,02909,41.815569,-71.456107,Primary,-1.0,5.0,430.0,24.0,90.0,Open,CCD 2024
+Traditional public,440000300121,Metropolitan Career Tech Ctr,MET Career and Tech,Providence,02905,41.806315,-71.412792,High,9.0,12.0,817.0,70.0,71.8,Open,CCD 2024
+Traditional public,440090000232,Mount Pleasant High,Providence,Providence,02908,41.839651,-71.45296,High,9.0,12.0,997.0,62.0,89.8,Open,CCD 2024
+Traditional public,440090000474,Nathan Bishop Middle,Providence,Providence,02906,41.84076,-71.393511,Middle,6.0,8.0,719.0,44.0,80.1,Open,CCD 2024
+Traditional public,440090000234,Nathanael Greene Middle,Providence,Providence,02908,41.834645,-71.431396,Middle,6.0,8.0,815.0,54.0,90.1,Open,CCD 2024
+Traditional public,440090000236,Pleasant View School,Providence,Providence,02909,41.835034,-71.462348,Primary,-1.0,5.0,433.0,39.0,80.4,Open,CCD 2024
+Traditional public,440090000467,Providence Career Technical,Providence,Providence,02903,41.816376,-71.422331,High,9.0,12.0,759.0,62.0,86.8,Open,CCD 2024
+Traditional public,440000100380,R.I. School for the Deaf,R.I. Sch for the Deaf,Providence,02908,41.85091,-71.427344,Other,-1.0,12.0,77.0,23.0,74.0,Open,CCD 2024
+Traditional public,440090000240,Reservoir Avenue School,Providence,Providence,02907,41.791675,-71.42781,Primary,0.0,5.0,289.0,16.0,90.0,Open,CCD 2024
+Traditional public,440090000241,Robert F. Kennedy El. School,Providence,Providence,02908,41.843013,-71.443791,Primary,0.0,5.0,451.0,23.0,69.4,Open,CCD 2024
+Traditional public,440090000071,Robert L. Bailey IV,Providence,Providence,02905,41.803301,-71.415868,Primary,0.0,5.0,444.0,30.0,89.0,Open,CCD 2024
+Traditional public,440090000242,Roger Williams Middle,Providence,Providence,02905,41.79849,-71.410781,Middle,6.0,8.0,786.0,54.0,89.8,Open,CCD 2024
+Traditional public,440002400483,Sheila Skip Nowell,Sheila Skip Nowell Leadership Academy,Providence,02903,41.82255,-71.415161,High,9.0,12.0,187.0,15.0,99.5,Open,CCD 2024
+Traditional public,440000500271,Urban Collaborative Program,Urban Collaborative,Providence,02903,41.821066,-71.421303,Middle,7.0,8.0,145.0,14.0,100.0,Open,CCD 2024
+Traditional public,440090000221,Vartan Gregorian El. School,Providence,Providence,02903,41.81964,-71.39393,Primary,0.0,5.0,311.0,20.0,42.1,Open,CCD 2024
+Traditional public,440090000013,Veazie Street School,Providence,Providence,02904,41.851013,-71.434121,Primary,-1.0,5.0,440.0,29.0,84.8,Open,CCD 2024
+Traditional public,440090000209,W B Cooley & Acad Internationa,Providence,Providence,02905,41.799052,-71.407739,High,9.0,12.0,685.0,51.0,82.9,Open,CCD 2024
+Traditional public,440090000247,Webster Avenue School,Providence,Providence,02909,41.810167,-71.449559,Primary,0.0,5.0,308.0,20.0,83.8,Open,CCD 2024
+Traditional public,440090000491,West Broadway Middle School,Providence,Providence,02909,41.817402,-71.436037,Middle,5.0,8.0,516.0,33.0,89.5,Open,CCD 2024
+Traditional public,440090000248,William D'Abate Elem. School,Providence,Providence,02909,41.821706,-71.446638,Primary,0.0,5.0,398.0,23.0,88.7,Open,CCD 2024
+Traditional public,440120200544,YouthBuild Preparatory Academy,YouthBuild Preparatory Academy,Providence,02903,41.823252,-71.412615,High,9.0,12.0,115.0,4.0,79.1,Open,CCD 2024
+Traditional public,440033000532,James R. D. Oldham School,East Providence,Riverside,02915,41.773085,-71.343923,,-1.0,-1.0,210.0,17.0,48.1,Open,CCD 2024
+Traditional public,440033000105,Riverside Middle School,East Providence,Riverside,02915,41.777001,-71.349879,Middle,6.0,8.0,549.0,50.0,57.9,Open,CCD 2024
+Traditional public,440033000092,Waddington School,East Providence,Riverside,02915,41.764337,-71.342065,Primary,0.0,5.0,554.0,32.0,47.8,Open,CCD 2024
+Traditional public,440033000389,Myron J. Francis Elementary,East Providence,Rumford,02916,41.841722,-71.360764,Primary,0.0,5.0,391.0,25.0,35.8,Open,CCD 2024
+Traditional public,440099000258,Old County Road School,Smithfield,Smithfield,02917,41.882789,-71.511993,Primary,0.0,5.0,228.0,22.0,34.6,Open,CCD 2024
+Traditional public,440099000537,Pleasant View Elementary Schoo,Smithfield,Smithfield,02917,41.881123,-71.541584,Primary,0.0,5.0,552.0,35.0,13.9,Open,CCD 2024
+Traditional public,440099000257,Raymond LaPerche School,Smithfield,Smithfield,02917,41.899632,-71.504707,Primary,-1.0,5.0,337.0,25.0,18.4,Open,CCD 2024
+Traditional public,440099000259,Smithfield High School,Smithfield,Smithfield,02917,41.880809,-71.54398,High,9.0,12.0,729.0,62.0,20.3,Open,CCD 2024
+Traditional public,440099000260,Vincent J. Gallagher Middle,Smithfield,Smithfield,02917,41.883799,-71.542892,Middle,6.0,8.0,502.0,43.0,20.7,Open,CCD 2024
+Traditional public,440105000357,Fort Barton School,Tiverton,Tiverton,02878,41.624932,-71.209584,Primary,0.0,4.0,133.0,12.0,24.1,Open,CCD 2024
+Traditional public,440105000273,Pocasset School,Tiverton,Tiverton,02878,41.666501,-71.186305,Primary,-1.0,4.0,210.0,13.0,42.4,Open,CCD 2024
+Traditional public,440105000276,Ranger School,Tiverton,Tiverton,02878,41.63246,-71.164768,Primary,-1.0,4.0,212.0,15.0,26.9,Open,CCD 2024
+Traditional public,440105000274,Tiverton High School,Tiverton,Tiverton,02878,41.628637,-71.165378,High,9.0,12.0,430.0,43.0,35.1,Open,CCD 2024
+Traditional public,440105000275,Tiverton Middle School,Tiverton,Tiverton,02878,41.628419,-71.159375,Middle,5.0,8.0,499.0,39.0,34.7,Open,CCD 2024
+Traditional public,440102000210,Broad Rock Middle School,South Kingstown,Wakefield,02879,41.456596,-71.484723,Middle,6.0,8.0,554.0,47.0,28.7,Open,CCD 2024
+Traditional public,440102000263,Matunuck School,South Kingstown,Wakefield,02879,41.386226,-71.54647,Primary,0.0,5.0,246.0,22.0,24.8,Open,CCD 2024
+Traditional public,440102000265,South Kingstown High,South Kingstown,Wakefield,02879,41.44659,-71.494976,High,9.0,12.0,688.0,64.0,25.7,Open,CCD 2024
+Traditional public,440006500278,Hugh Cole School,Bristol Warren,Warren,02885,41.724437,-71.254071,Primary,-1.0,5.0,517.0,39.0,45.6,Open,CCD 2024
+Traditional public,440006500282,Kickemuit Middle School,Bristol Warren,Warren,02885,41.729142,-71.259365,Middle,6.0,8.0,633.0,51.0,39.2,Open,CCD 2024
+Traditional public,440111000285,Cedar Hill School,Warwick,Warwick,02886,41.684183,-71.46418,Primary,0.0,5.0,299.0,26.0,26.4,Open,CCD 2024
+Traditional public,440111000291,Greenwood School,Warwick,Warwick,02886,41.710678,-71.45434,Primary,0.0,5.0,255.0,20.0,34.5,Open,CCD 2024
+Traditional public,440111000293,Holliman School,Warwick,Warwick,02888,41.749133,-71.412809,Primary,0.0,5.0,280.0,17.0,51.1,Open,CCD 2024
+Traditional public,440111000294,Hoxsie School,Warwick,Warwick,02889,41.728818,-71.399751,Primary,0.0,5.0,278.0,20.0,55.4,Open,CCD 2024
+Traditional public,440111000296,Lippitt School,Warwick,Warwick,02886,41.707571,-71.42208,Primary,0.0,5.0,223.0,24.0,57.8,Open,CCD 2024
+Traditional public,440111000298,Norwood School,Warwick,Warwick,02888,41.75093,-71.427191,Primary,0.0,5.0,265.0,23.0,64.2,Open,CCD 2024
+Traditional public,440111000299,Oakland Beach School,Warwick,Warwick,02889,41.698865,-71.399158,Primary,-1.0,5.0,326.0,29.0,61.3,Open,CCD 2024
+Traditional public,440111000300,Park School,Warwick,Warwick,02886,41.692753,-71.417263,Primary,0.0,5.0,225.0,19.0,49.8,Open,CCD 2024
+Traditional public,440111000301,Pilgrim High School,Warwick,Warwick,02888,41.74624,-71.41189,High,9.0,12.0,1137.0,108.0,46.2,Open,CCD 2024
+Traditional public,440111000304,Robertson School,Warwick,Warwick,02886,41.698812,-71.440213,Primary,0.0,5.0,259.0,19.0,49.0,Open,CCD 2024
+Traditional public,440111000305,Scott School,Warwick,Warwick,02886,41.699782,-71.489915,Primary,0.0,5.0,189.0,18.0,49.7,Open,CCD 2024
+Traditional public,440111000306,Sherman School,Warwick,Warwick,02889,41.718056,-71.396334,Primary,0.0,5.0,324.0,25.0,47.8,Open,CCD 2024
+Traditional public,440111000307,Toll Gate High School,Warwick,Warwick,02886,41.703264,-71.485945,High,9.0,12.0,1104.0,92.0,45.9,Open,CCD 2024
+Traditional public,440111000287,Warwick Early Learning Center,Warwick,Warwick,02888,41.74351,-71.404941,,-1.0,-1.0,207.0,17.0,39.6,Open,CCD 2024
+Traditional public,440111000308,Warwick Neck School,Warwick,Warwick,02889,41.689733,-71.377151,Primary,0.0,5.0,290.0,18.0,45.9,Open,CCD 2024
+Traditional public,440111000512,Warwick Veterans Middle School,Warwick,Warwick,02889,41.704726,-71.409237,Middle,6.0,8.0,1059.0,93.0,50.0,Open,CCD 2024
+Traditional public,440111000311,Winman Middle School,Warwick,Warwick,02886,41.706191,-71.485473,Middle,6.0,8.0,706.0,66.0,42.9,Open,CCD 2024
+Traditional public,440111000312,Wyman School,Warwick,Warwick,02888,41.752696,-71.390093,Primary,0.0,5.0,262.0,17.0,45.4,Open,CCD 2024
+Traditional public,440036000390,Exeter-West Greenwich Reg. Jr.,Exeter-West Greenwich,West Greenwich,02817,41.607586,-71.638398,Middle,7.0,8.0,256.0,20.0,18.8,Open,CCD 2024
+Traditional public,440036000391,Exeter-West Greenwich Regional,Exeter-West Greenwich,West Greenwich,02817,41.607586,-71.638398,High,9.0,12.0,452.0,39.0,23.2,Open,CCD 2024
+Traditional public,440036000112,Mildred E. Lineham School,Exeter-West Greenwich,West Greenwich,02817,41.612695,-71.637673,,-1.0,-1.0,84.0,6.0,17.9,Open,CCD 2024
+Traditional public,440102000270,West Kingston School,South Kingstown,West Kingston,02892,41.478391,-71.550449,Primary,0.0,5.0,313.0,21.0,21.4,Open,CCD 2024
+Traditional public,440114000402,Greenbush Elementary School,West Warwick,West Warwick,02893,41.670578,-71.52532,Primary,0.0,4.0,427.0,33.0,51.1,Open,CCD 2024
+Traditional public,440114000313,John F. Deering Middle,West Warwick,West Warwick,02893,41.70819,-71.516751,Middle,5.0,8.0,976.0,94.0,62.9,Open,CCD 2024
+Traditional public,440114000315,John F. Horgan School,West Warwick,West Warwick,02893,41.714378,-71.516682,Primary,0.0,4.0,475.0,33.0,70.1,Open,CCD 2024
+Traditional public,440114000514,Maisie E. Quinn School,West Warwick,West Warwick,02893,41.690192,-71.52347,,-1.0,-1.0,91.0,6.0,56.0,Open,CCD 2024
+Traditional public,440114000238,Wakefield Hills El. School,West Warwick,West Warwick,02893,41.72399,-71.505222,Primary,0.0,4.0,373.0,34.0,63.5,Open,CCD 2024
+Traditional public,440114000318,West Warwick High School,West Warwick,West Warwick,02893,41.708569,-71.515999,High,9.0,12.0,1081.0,83.0,56.1,Open,CCD 2024
+Traditional public,440117000321,Dunn's Corners School,Westerly,Westerly,02891,41.347121,-71.775476,Primary,0.0,4.0,264.0,26.0,33.7,Open,CCD 2024
+Traditional public,440117000120,Springbrook Elementary School,Westerly,Westerly,02891,41.401575,-71.829859,Primary,0.0,4.0,243.0,26.0,62.1,Open,CCD 2024
+Traditional public,440117000362,State Street School,Westerly,Westerly,02891,41.365351,-71.824035,Primary,0.0,4.0,212.0,22.0,46.2,Open,CCD 2024
+Traditional public,440117000325,Westerly High School,Westerly,Westerly,02891,41.375788,-71.81911,High,9.0,12.0,650.0,68.0,38.5,Open,CCD 2024
+Traditional public,440117000499,Westerly Inclusion Preschool P,Westerly,Westerly,02891,41.37673,-71.82183,,-1.0,-1.0,87.0,7.0,39.1,Open,CCD 2024
+Traditional public,440117000319,Westerly Middle School,Westerly,Westerly,02891,41.34892,-71.786761,Middle,5.0,8.0,639.0,58.0,43.8,Open,CCD 2024
+Traditional public,440015000286,Chariho Alternative Learning A,Chariho,Wood River Junction,02894,41.450116,-71.69765,Other,1.0,12.0,71.0,10.0,64.8,Open,CCD 2024
+Traditional public,440015000029,Chariho High School,Chariho,Wood River Junction,02894,41.450085,-71.69645,High,9.0,12.0,991.0,78.0,27.3,Open,CCD 2024
+Traditional public,440015000386,Chariho Regional Middle School,Chariho,Wood River Junction,02894,41.448607,-71.698147,Middle,5.0,8.0,834.0,67.0,30.2,Open,CCD 2024
+Traditional public,440120000327,Bernon Heights School,Woonsocket,Woonsocket,02895,41.992891,-71.503743,Primary,0.0,5.0,405.0,30.0,64.0,Open,CCD 2024
+Traditional public,440120000334,Globe Park School,Woonsocket,Woonsocket,02895,41.988665,-71.525073,Primary,-1.0,5.0,519.0,32.0,69.9,Open,CCD 2024
+Traditional public,440120000336,Harris School,Woonsocket,Woonsocket,02895,42.007681,-71.51524,Primary,0.0,5.0,371.0,25.0,70.6,Open,CCD 2024
+Traditional public,440120000331,Kevin K. Coleman School,Woonsocket,Woonsocket,02895,41.999264,-71.52616,Primary,0.0,5.0,256.0,17.0,67.2,Open,CCD 2024
+Traditional public,440120000330,Leo A. Savoie School,Woonsocket,Woonsocket,02895,42.005409,-71.477545,Primary,0.0,5.0,380.0,25.0,62.4,Open,CCD 2024
+Traditional public,440120000531,Pothier-Citizens Elem Campus,Woonsocket,Woonsocket,02895,42.011689,-71.493312,Primary,-1.0,5.0,669.0,49.0,65.9,Open,CCD 2024
+Traditional public,440120000345,Woonsocket High School,Woonsocket,Woonsocket,02895,42.004113,-71.485813,High,9.0,12.0,1646.0,108.0,67.0,Open,CCD 2024
+Traditional public,440120000517,Woonsocket Middle @ Villa Nova,Woonsocket,Woonsocket,02895,42.00523,-71.502687,Middle,6.0,8.0,542.0,56.0,68.3,Open,CCD 2024
+Traditional public,440120000516,Woonsocket Middle at Hamlet,Woonsocket,Woonsocket,02895,42.003501,-71.50053,Middle,6.0,8.0,537.0,51.0,73.0,Open,CCD 2024
+Traditional public,440015000251,Richmond Elementary School,Chariho,Wyoming,02898,41.500759,-71.661828,Primary,0.0,4.0,371.0,28.0,31.3,Open,CCD 2024

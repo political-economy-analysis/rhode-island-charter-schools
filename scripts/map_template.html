@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>RI Charter Schools Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<style>
+:root{--bg:#fff;--land:#ececec;--edge:#c4c4c4;--ink:#1f2328;--muted:#59636e;--dot:#1f6fb2;--dot2:#d9730d;--dot3:#8e44ad;--card:#fff;--line:#d8dee4}
+@media (prefers-color-scheme:dark){:root{--bg:#161b22;--land:#262c34;--edge:#3b434d;--ink:#e6edf3;--muted:#9aa4af;--dot:#58a6ff;--dot2:#f0883e;--dot3:#c297e8;--card:#21262d;--line:#3b434d}}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+header{padding:12px 16px 8px}h1{font-size:19px;margin:0 0 4px}p.sub{margin:0;color:var(--muted);font-size:13px}
+#map{height:calc(100% - 78px);background:var(--bg)}
+.leaflet-container{background:var(--bg)}
+.leaflet-tooltip.tip{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:10px 12px;box-shadow:0 2px 10px rgba(0,0,0,.2);white-space:normal;width:270px;font-size:12.5px}
+.tip h3{margin:0 0 2px;font-size:14px}.tip .lea{color:var(--muted);margin-bottom:6px}
+.tip table{border-collapse:collapse;width:100%}.tip td{padding:2px 0;vertical-align:top}.tip td:last-child{text-align:right;font-weight:600}
+.tip .sec{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.04em;padding-top:6px}
+.tag{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px}
+.tip .note{color:var(--muted);font-size:11px;margin-top:6px}
+.legend{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:8px 12px;font-size:12px}
+.legend b{display:block;margin-bottom:4px}.legend div{display:flex;align-items:center;gap:8px;margin:3px 0}
+.legend i{display:inline-block;border-radius:50%;background:var(--dot);opacity:.7;border:1px solid var(--bg)}
+.legend .sw{width:60px;display:flex;justify-content:center}
+</style></head><body>
+<header><h1>Rhode Island charter schools: where they are and how big they are</h1>
+<p class="sub">Dot area is proportional to enrollment (2024-25), on one scale for charter, non-charter public and private schools. Scroll or pinch to zoom, drag to pan, hover a dot for details.</p></header>
+<div id="map"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script>
+const SCHOOLS=__SCHOOLS__, OTHERS=__OTHERS__, PRIVATES=__PRIVATES__, TOWNS=__TOWNS__;
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const map=L.map('map',{zoomSnap:0.25,minZoom:8,maxZoom:15,zoomControl:true}).setView([41.68,-71.5],9.5);
+map.setMaxBounds([[40.9,-72.3],[42.3,-70.7]]);
+const usd=v=>v==null?'n/a':'$'+Math.round(v).toLocaleString();
+const num=v=>v.toLocaleString();
+L.geoJSON(TOWNS,{style:()=>({fillColor:css('--land'),fillOpacity:1,color:css('--edge'),weight:.8}),
+  onEachFeature:(f,l)=>l.bindTooltip(f.properties.name,{sticky:true,direction:'top',opacity:.9})}).addTo(map);
+const MAX=Math.max(...SCHOOLS.map(s=>s.enroll),...OTHERS.map(s=>s.enroll),...PRIVATES.map(s=>s.enroll)), RMAX=22; // one scale for both groups; radius px of the largest school
+const rad=e=>RMAX*Math.sqrt(e/MAX);
+const row=(a,b)=>`<tr><td>${a}</td><td>${b}</td></tr>`;
+const GROUP={charter:{label:'charter',color:'--dot',list:SCHOOLS},district:{label:'non-charter',color:'--dot2',list:OTHERS},private:{label:'private',color:'--dot3',list:PRIVATES}};
+function tipPrivate(s){
+  const g=GROUP.private, tot=PRIVATES.reduce((a,x)=>a+x.enroll,0);
+  return `<h3>${s.name}</h3><div class="lea"><span class="tag" style="background:var(--dot3)"></span>Private school${s.aff?' &middot; '+s.aff:''}<br>${s.addr}</div><table>
+  <tr><td class="sec" colspan="2">Enrollment</td></tr>
+  ${row('Students',num(s.enroll))}${row('School level',s.level||'n/a')}${row('Share of all private students',(100*s.enroll/tot).toFixed(1)+'%')}
+  ${row('Students of color',s.poc==null?'n/a':s.poc.toFixed(0)+'%')}
+  ${row('Students per teacher (FTE)',s.spt==null?'n/a':s.spt.toFixed(1))}
+  <tr><td class="sec" colspan="2">Cost</td></tr>
+  ${row('Tuition','not in public data')}
+  </table><div class="note">Source: NCES Private School Universe Survey, 2021-22 (earlier than the public-school data). The public file does not report tuition or income mix.</div>`;}
+function tip(s){
+  if(s.kind==='private') return tipPrivate(s);
+  const g=GROUP[s.kind], tot=g.list.reduce((a,x)=>a+x.enroll,0), ch=s.kind==='charter';
+  return `<h3>${s.name}</h3><div class="lea"><span class="tag" style="background:var(${g.color})"></span>${ch?'Charter school':'Non-charter public school'} &middot; ${s.lea}${s.virtual?' (virtual)':''}<br>${s.addr}</div><table>
+  <tr><td class="sec" colspan="2">Enrollment</td></tr>
+  ${row('Students',num(s.enroll))}${row('Grades',s.grades)}${row('Share of all '+g.label+' students',(100*s.enroll/tot).toFixed(1)+'%')}
+  ${row('Low-income (free/reduced lunch)',s.frl==null?'n/a':s.frl.toFixed(0)+'%')}
+  ${row('Students per teacher (FTE)',s.spt==null?'n/a':s.spt.toFixed(1))}
+  <tr><td class="sec" colspan="2">Cost</td></tr>
+  ${row('Tuition to families','$0')}
+  ${row('Current spending per pupil, FY2020',usd(s.pp))}
+  ${row('&nbsp;&nbsp;of which instruction',usd(s.ppi))}
+  ${row('State revenue per pupil',usd(s.pps))}${row('Local revenue per pupil',usd(s.ppl))}
+  </table><div class="note">Public schools charge no tuition. Spending is for the ${ch?"school's operator (charter LEA)":"whole school district (LEA), not this school alone,"} in FY2020, the latest year available${s.pp==null?'; not available here (new operator, or charter inside a district)':''}.</div>`;}
+function layer(list,kind,opacity){
+  const lg=L.layerGroup(), c=GROUP[kind].color;
+  list.slice().sort((a,b)=>b.enroll-a.enroll).forEach(s=>{
+    const m=L.circleMarker([s.lat,s.lon],{radius:rad(s.enroll),fillColor:css(c),fillOpacity:opacity,color:css('--bg'),weight:1.2}).addTo(lg);
+    m.bindTooltip(tip(s),{className:'tip',direction:'auto',sticky:false,opacity:1});
+    m.on('mouseover',()=>m.setStyle({weight:3,fillOpacity:.95,color:css('--ink')}));
+    m.on('mouseout',()=>m.setStyle({weight:1.2,fillOpacity:opacity,color:css('--bg')}));
+  });
+  return lg;}
+const districtLayer=layer(OTHERS,'district',.55), charterLayer=layer(SCHOOLS,'charter',.8);
+const privateLayer=layer(PRIVATES,'private',.6);
+districtLayer.addTo(map); privateLayer.addTo(map); charterLayer.addTo(map);  // charters drawn last so they sit on top
+const ctl=L.control({position:'topright'});
+ctl.onAdd=()=>{const d=L.DomUtil.create('div','legend');
+  d.innerHTML=`<label><input type="checkbox" data-k="d" checked> Show non-charter public schools (${OTHERS.length})</label><br><label><input type="checkbox" data-k="p" checked> Show private schools (${PRIVATES.length})</label>`;
+  L.DomEvent.disableClickPropagation(d);
+  const lay={d:districtLayer,p:privateLayer};
+  d.querySelectorAll('input').forEach(i=>i.addEventListener('change',e=>{const l=lay[i.dataset.k];
+    if(e.target.checked)l.addTo(map);else map.removeLayer(l);
+    map.removeLayer(charterLayer);charterLayer.addTo(map);}));  // re-add so charters stay on top
+  return d};
+ctl.addTo(map);
+const lg=L.control({position:'bottomright'});
+lg.onAdd=()=>{const d=L.DomUtil.create('div','legend');
+  d.innerHTML='<b>Students enrolled</b>'+[100,500,1000,MAX].map(v=>`<div><span class="sw"><i style="background:var(--muted);width:${2*rad(v)}px;height:${2*rad(v)}px"></i></span>${num(v)}</div>`).join('')+
+  `<div><i style="background:var(--dot);width:10px;height:10px"></i>Charter: ${SCHOOLS.length} schools, ${num(SCHOOLS.reduce((a,x)=>a+x.enroll,0))} students</div>`+
+  `<div><i style="background:var(--dot3);width:10px;height:10px"></i>Private: ${PRIVATES.length} schools, ${num(PRIVATES.reduce((a,x)=>a+x.enroll,0))} students (2021-22)</div>`+
+  `<div><i style="background:var(--dot2);width:10px;height:10px"></i>Non-charter: ${OTHERS.length} schools, ${num(OTHERS.reduce((a,x)=>a+x.enroll,0))} students</div>`;return d};
+lg.addTo(map);
+</script></body></html>

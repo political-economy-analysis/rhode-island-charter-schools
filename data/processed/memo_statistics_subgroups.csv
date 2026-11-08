@@ -1,0 +1,25 @@
+group,subject,sector,schools,students_tested,proficient_pct
+Black,math,Charter,23,640,34.6
+Black,math,Traditional public,119,5061,15.5
+Black,read,Charter,23,643,37.8
+Black,read,Traditional public,119,4967,21.4
+Hispanic,math,Charter,31,2595,26.9
+Hispanic,math,Traditional public,191,16302,13.2
+Hispanic,read,Charter,31,2587,34.8
+Hispanic,read,Traditional public,191,15831,20.4
+White,math,Charter,20,799,49.3
+White,math,Traditional public,246,40669,39.1
+White,read,Charter,20,798,58.6
+White,read,Traditional public,246,40610,51.2
+Low-income,math,Charter,32,3208,27.5
+Low-income,math,Traditional public,247,32488,14.3
+Low-income,read,Charter,33,3205,34.4
+Low-income,read,Traditional public,247,32022,22.4
+Students with disabilities,math,Charter,24,431,23.4
+Students with disabilities,math,Traditional public,238,9735,13.5
+Students with disabilities,read,Charter,24,433,23.4
+Students with disabilities,read,Traditional public,239,9727,14.4
+English learners,math,Charter,18,509,25.5
+English learners,math,Traditional public,105,6557,8.3
+English learners,read,Charter,18,506,29.9
+English learners,read,Traditional public,96,5807,9.4

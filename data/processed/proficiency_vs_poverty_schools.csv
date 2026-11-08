@@ -1,0 +1,291 @@
+ncessch,school_name,lea_name,charter,frl,enrollment,math_prof,math_tested,read_prof,read_tested,sector,math_resid,read_resid
+440000100380,R.I. School for the Deaf,R.I. Sch for the Deaf,0,66.23,77.0,24.5,12.0,24.5,12.0,Traditional public,4.69,-3.73
+440000300121,Metropolitan Career Tech Ctr,MET Career and Tech,0,69.53,781.0,12.0,178.0,42.0,178.0,Traditional public,-6.11,15.76
+440000400379,Davies Career-Tech High School,Davies Career and Tech,0,60.6,868.0,17.0,203.0,42.0,203.0,Traditional public,-5.7,10.35
+440000500271,Urban Collaborative Program,Urban Collaborative,0,80.0,135.0,3.46,123.0,3.48,120.0,Traditional public,-9.27,-16.41
+440000600326,The Learning Community,Learning Community,1,82.31,571.0,32.3,371.0,42.26,370.0,Charter,20.76,23.77
+440000800297,BEACON Charter School,Beacon Charter School,1,48.47,229.0,24.5,49.0,54.5,49.0,Charter,-4.44,15.5
+440000800493,Founders Academy,Beacon Charter School,1,48.2,139.0,11.69,139.0,14.83,138.0,Charter,-17.39,-24.33
+440000900413,DCYF Alternative Ed. Program,DCYF,0,5.77,52.0,24.5,7.0,24.5,8.0,Traditional public,-26.4,-40.38
+440001400472,Segue Inst for Learning,Segue Institute for Learning,1,92.8,236.0,6.47,233.0,24.37,233.0,Charter,0.32,12.24
+440001500473,Blackstone Valley Prep,Blackstone Valley Prep  A RI Mayoral Academy,1,58.39,411.0,37.0,160.0,41.97,161.0,Charter,13.16,8.98
+440001500475,Blackstone Valley Prep,Blackstone Valley Prep  A RI Mayoral Academy,1,69.91,319.0,55.33,318.0,48.23,318.0,Charter,37.42,22.22
+440001500480,Blackstone Valley Prep E. 2,Blackstone Valley Prep  A RI Mayoral Academy,1,56.09,419.0,44.48,165.0,44.45,165.0,Charter,19.46,10.07
+440001500488,Blackstone Valley Prep High,Blackstone Valley Prep  A RI Mayoral Academy,1,70.29,350.0,37.0,84.0,52.0,84.0,Charter,19.28,26.22
+440001500496,Blackstone Valley Prep Element,Blackstone Valley Prep  A RI Mayoral Academy,1,59.29,226.0,54.5,56.0,74.5,56.0,Charter,31.12,42.06
+440001500513,Blackstone Valley Prep Mid2,Blackstone Valley Prep  A RI Mayoral Academy,1,59.17,240.0,53.72,238.0,55.27,237.0,Charter,30.28,22.75
+440001700477,The Greene School,The Greene School,1,38.61,202.0,34.5,42.0,64.5,42.0,Charter,0.49,19.53
+440001800478,Trinity Academy Performing Art,Trinity Academy for the Performing Arts,1,84.19,215.0,5.0,103.0,21.0,104.0,Charter,-5.57,3.65
+440001900479,RINI Middle College,Rhode Island Nurses Institute Middle College,1,62.13,272.0,5.0,59.0,24.5,59.0,Charter,-16.92,-6.22
+440002100486,Achievement First Providence,Achievement First Rhode Island,1,87.66,462.0,52.0,173.0,49.44,174.0,Charter,43.21,34.2
+440002100495,Achievement First Illuminar,Achievement First Rhode Island,1,82.03,462.0,61.84,185.0,72.0,185.0,Charter,50.16,53.34
+440002100515,AF Providence Mayoral Middle,Achievement First Rhode Island,1,78.61,201.0,47.28,199.0,50.13,198.0,Charter,33.83,29.4
+440002400484,Sheila Skip Nowell (Central),Sheila Skip Nowell Leadership Academy,1,89.55,67.0,24.5,7.0,24.5,7.0,Charter,16.69,10.4
+440002500487,Village Green Virtual,Village Green Virtual,1,85.78,225.0,5.0,51.0,24.5,51.0,Charter,-4.75,8.11
+440002700489,The Hope Academy,The Hope Academy,1,56.18,178.0,24.5,72.0,29.5,72.0,Charter,-0.48,-4.83
+440002800490,SouthSide Elementary Charter,SouthSide Charter School,1,82.2,118.0,30.0,46.0,30.0,45.0,Charter,18.41,11.45
+440002900494,RISE Prep Mayoral Academy,RISE Prep Mayoral Academy,1,52.73,220.0,64.5,50.0,74.5,50.0,Charter,37.75,38.08
+440003000001,Barrington High School,Barrington,0,4.36,1101.0,77.0,312.0,89.0,314.0,Traditional public,25.37,23.27
+440003000002,Barrington Middle School,Barrington,0,4.82,830.0,68.61,824.0,80.43,826.0,Traditional public,17.22,14.97
+440003000003,Hampden Meadows School,Barrington,0,3.21,499.0,57.0,508.0,62.0,504.0,Traditional public,4.78,-4.43
+440003000004,Nayatt School,Barrington,0,5.2,327.0,77.0,86.0,77.0,84.0,Traditional public,25.81,11.78
+440003000005,Sowams Elementary School,Barrington,0,3.6,250.0,47.0,61.0,62.0,61.0,Traditional public,-5.02,-4.19
+440003000006,Primrose Hill School,Barrington,0,5.45,312.0,62.0,81.0,72.0,81.0,Traditional public,10.93,6.93
+440003100521,Highlander Secondary Charter S,Highlander,1,70.79,315.0,10.0,147.0,29.67,147.0,Charter,-7.46,4.2
+440003100524,Highlander Elementary Charter,Highlander,1,72.16,273.0,19.68,142.0,27.11,141.0,Charter,2.93,2.47
+440003200520,Paul Cuffee Lower School,Paul Cuffee Charter Sch,1,75.07,361.0,28.71,181.0,23.88,180.0,Charter,13.45,1.0
+440003200525,Paul Cuffee Middle School,Paul Cuffee Charter Sch,1,75.14,185.0,26.74,191.0,32.08,191.0,Charter,11.51,9.24
+440003200526,Paul Cuffee Upper School,Paul Cuffee Charter Sch,1,82.49,257.0,17.0,63.0,42.0,63.0,Charter,5.55,23.62
+440003300225,Kingston Hill Academy,Kingston Hill Academy,1,15.87,189.0,74.5,115.0,71.63,115.0,Charter,28.79,12.88
+440003400226,International Charter School,International Charter,1,45.41,370.0,13.88,171.0,31.09,170.0,Charter,-16.64,-9.77
+440003500245,The Compass School,The Compass School,1,6.78,177.0,49.33,118.0,62.89,118.0,Charter,-1.06,-1.38
+440003600246,Blackstone Academy Charter,Blackstone Academy,1,72.47,356.0,7.5,89.0,22.0,89.0,Charter,-9.1,-2.45
+440006500009,Mt. Hope High School,Bristol Warren,0,26.91,944.0,42.0,201.0,67.0,201.0,Traditional public,1.97,14.93
+440006500012,Guiteras School,Bristol Warren,0,22.13,253.0,58.33,120.0,61.28,121.0,Traditional public,15.85,6.32
+440006500016,Rockwell School,Bristol Warren,0,15.81,272.0,74.58,129.0,81.49,129.0,Traditional public,28.84,22.7
+440006500278,Hugh Cole School,Bristol Warren,0,38.17,613.0,40.39,304.0,45.16,302.0,Traditional public,6.15,-0.08
+440006500282,Kickemuit Middle School,Bristol Warren,0,33.07,762.0,33.32,725.0,46.78,734.0,Traditional public,-3.54,-1.56
+440006500468,Colt Andrews School,Bristol Warren,0,34.86,350.0,44.49,185.0,57.91,185.0,Traditional public,8.54,10.66
+440009000019,Burrillville High School,Burrillville,0,23.57,768.0,37.0,184.0,57.0,184.0,Traditional public,-4.75,2.91
+440009000022,William Callahan School,Burrillville,0,39.76,327.0,21.87,263.0,25.44,263.0,Traditional public,-11.56,-18.84
+440009000057,Steere Farm Elementary School,Burrillville,0,31.46,302.0,20.31,243.0,41.46,242.0,Traditional public,-17.38,-7.85
+440009000383,Burrillville Middle School,Burrillville,0,30.15,524.0,12.0,532.0,25.26,531.0,Traditional public,-26.36,-24.84
+440012000024,Calcutt Middle School,Central Falls,0,92.64,707.0,2.5,754.0,8.75,682.0,Traditional public,-3.72,-3.47
+440012000026,Central Falls Sr High,Central Falls,0,86.87,716.0,7.5,162.0,12.0,155.0,Traditional public,-1.69,-3.73
+440012000027,Ella Risk School,Central Falls,0,95.2,417.0,16.44,229.0,23.78,209.0,Traditional public,11.53,13.11
+440012000385,Veterans Memorial Elementary,Central Falls,0,96.71,486.0,11.06,277.0,15.44,265.0,Traditional public,6.92,5.67
+440015000029,Chariho High School,Chariho,0,17.37,1117.0,52.0,241.0,72.0,241.0,Traditional public,7.06,14.15
+440015000030,Charlestown Elementary School,Chariho,0,22.45,245.0,65.87,102.0,74.5,102.0,Traditional public,23.55,19.73
+440015000122,Ashaway Elementary School,Chariho,0,22.92,192.0,73.11,79.0,70.21,77.0,Traditional public,31.02,15.73
+440015000251,Richmond Elementary School,Chariho,0,16.58,392.0,57.5,151.0,63.26,151.0,Traditional public,12.16,4.93
+440015000286,Chariho Alternative Learning A,Chariho,0,63.46,52.0,24.5,7.0,24.5,8.0,Traditional public,3.27,-5.41
+440015000349,Hope Valley Elementary School,Chariho,0,24.38,283.0,65.21,84.0,64.5,84.0,Traditional public,23.88,10.9
+440015000386,Chariho Regional Middle School,Chariho,0,21.11,933.0,39.6,927.0,54.43,929.0,Traditional public,-3.41,-1.15
+440021000031,Blackrock School,Coventry,0,39.71,350.0,29.32,176.0,53.8,176.0,Traditional public,-4.13,9.5
+440021000032,Coventry High School,Coventry,0,27.86,1475.0,38.0,360.0,59.0,363.0,Traditional public,-1.54,7.51
+440021000034,Washington Oak School,Coventry,0,21.75,662.0,45.54,267.0,56.81,265.0,Traditional public,2.86,1.62
+440021000035,Hopkins Hill School,Coventry,0,43.4,371.0,46.78,181.0,48.17,180.0,Traditional public,15.23,6.09
+440021000041,Western Coventry School,Coventry,0,22.92,349.0,36.05,189.0,57.88,188.0,Traditional public,-6.03,3.4
+440021000365,Tiogue School,Coventry,0,44.35,363.0,29.14,167.0,46.19,169.0,Traditional public,-1.92,4.69
+440021000465,Alan Shawn Feinstein MS of Cov,Coventry,0,31.63,1132.0,31.64,1103.0,47.05,1106.0,Traditional public,-5.96,-2.16
+440024000042,Arlington School,Cranston,0,72.12,226.0,16.39,109.0,16.85,109.0,Traditional public,-0.39,-7.81
+440024000043,Chester W. Barrows School,Cranston,0,54.72,159.0,37.61,96.0,39.71,96.0,Traditional public,11.89,4.5
+440024000044,Cranston High School East,Cranston,0,57.43,1682.0,22.0,390.0,42.0,390.0,Traditional public,-2.33,8.43
+440024000045,Cranston High School West,Cranston,0,22.57,1493.0,30.0,335.0,63.0,336.0,Traditional public,-12.26,8.31
+440024000046,Daniel D. Waterman School,Cranston,0,35.22,247.0,34.5,120.0,58.25,120.0,Traditional public,-1.25,11.22
+440024000047,Eden Park School,Cranston,0,42.7,274.0,28.56,143.0,34.97,144.0,Traditional public,-3.35,-7.53
+440024000048,Edgewood Highland,Cranston,0,59.52,252.0,20.75,93.0,53.29,91.0,Traditional public,-2.5,20.99
+440024000049,Edward S. Rhodes School,Cranston,0,25.29,174.0,45.94,94.0,56.82,95.0,Traditional public,5.07,3.77
+440024000050,Garden City School,Cranston,0,29.89,281.0,44.5,133.0,67.13,133.0,Traditional public,6.0,16.87
+440024000051,Gladstone Street School,Cranston,0,83.7,497.0,20.11,259.0,26.69,243.0,Traditional public,9.29,9.05
+440024000052,Glen Hills School,Cranston,0,24.9,257.0,40.11,132.0,56.55,132.0,Traditional public,-0.96,3.26
+440024000053,Hugh B. Bain Middle School,Cranston,0,76.96,612.0,12.43,628.0,14.49,613.0,Traditional public,-1.86,-7.24
+440024000059,Oak Lawn School,Cranston,0,10.81,222.0,49.36,109.0,51.11,109.0,Traditional public,1.05,-10.72
+440024000060,Park View Middle School,Cranston,0,44.64,690.0,20.28,682.0,40.26,682.0,Traditional public,-10.64,-1.06
+440024000063,Stadium School,Cranston,0,65.91,264.0,48.06,132.0,61.17,132.0,Traditional public,28.09,32.74
+440024000064,Stone Hill School,Cranston,0,30.6,281.0,37.76,144.0,54.64,143.0,Traditional public,-0.37,4.81
+440024000067,Western Hills Middle School,Cranston,0,32.55,768.0,28.64,750.0,43.69,750.0,Traditional public,-8.49,-4.95
+440024000068,W. R. Dutemple School,Cranston,0,56.19,299.0,8.61,147.0,36.61,147.0,Traditional public,-16.37,2.29
+440024000069,Woodridge School,Cranston,0,26.91,301.0,34.12,156.0,47.06,156.0,Traditional public,-5.91,-5.0
+440024000229,NEL/CPS Construction Career,Cranston,1,72.0,175.0,5.0,38.0,15.0,38.0,Charter,-11.84,-9.74
+440024000277,Orchard Farms El. School,Cranston,0,5.93,455.0,49.76,232.0,59.75,231.0,Traditional public,-1.06,-5.03
+440024000351,George J. Peters School,Cranston,0,49.35,308.0,24.55,154.0,38.66,154.0,Traditional public,-3.94,0.19
+440024000504,Hope Highlands Middle School,Cranston,0,9.76,379.0,33.56,385.0,55.31,384.0,Traditional public,-15.29,-7.15
+440027000039,B.F. Norton Elementary School,Cumberland,0,44.23,355.0,39.82,189.0,50.35,189.0,Traditional public,8.69,8.78
+440027000070,Ashton School,Cumberland,0,17.59,290.0,54.35,137.0,67.74,136.0,Traditional public,9.53,10.02
+440027000075,Community School,Cumberland,0,4.75,610.0,74.96,299.0,76.45,299.0,Traditional public,23.54,10.95
+440027000076,Cumberland High School,Cumberland,0,17.41,1430.0,42.0,325.0,67.0,326.0,Traditional public,-2.91,9.18
+440027000077,John J. McLaughlin Cumberland,Cumberland,0,17.16,373.0,58.68,194.0,48.68,193.0,Traditional public,13.63,-9.29
+440027000078,Joseph L. McCourt MS,Cumberland,0,33.05,466.0,38.63,464.0,45.29,461.0,Traditional public,1.75,-3.06
+440027000081,Garvin Memorial,Cumberland,0,23.87,377.0,38.05,193.0,46.35,192.0,Traditional public,-3.54,-7.56
+440027000082,North Cumberland Middle,Cumberland,0,7.06,623.0,65.28,617.0,77.0,618.0,Traditional public,15.05,12.91
+440030000086,East Greenwich High,East Greenwich,0,3.01,763.0,77.0,163.0,82.0,163.0,Traditional public,24.68,15.45
+440030000087,Archie R. Cole MS,East Greenwich,0,4.38,639.0,50.3,637.0,58.89,637.0,Traditional public,-1.31,-6.83
+440030000089,James H. Eldredge School,East Greenwich,0,6.84,307.0,65.13,307.0,70.11,309.0,Traditional public,14.78,5.88
+440030000377,George Hanaford School,East Greenwich,0,5.41,259.0,54.15,261.0,67.27,261.0,Traditional public,3.06,2.17
+440033000091,Agnes B. Hennessey School,East Providence,0,62.88,264.0,24.31,138.0,34.21,137.0,Traditional public,2.78,3.94
+440033000092,Waddington School,East Providence,0,31.75,485.0,31.88,205.0,46.95,204.0,Traditional public,-5.66,-2.18
+440033000094,James R. D. Oldham School,East Providence,0,54.48,145.0,36.41,73.0,36.41,73.0,Traditional public,10.56,1.06
+440033000097,East Providence High,East Providence,0,45.09,1466.0,16.0,314.0,42.0,315.0,Traditional public,-14.68,0.95
+440033000099,Kent Heights School,East Providence,0,57.3,267.0,34.5,143.0,47.74,142.0,Traditional public,10.1,14.09
+440033000103,Orlo Avenue School,East Providence,0,61.74,264.0,28.0,132.0,41.22,134.0,Traditional public,5.88,10.26
+440033000105,Riverside Middle School,East Providence,0,47.96,540.0,23.48,535.0,33.65,538.0,Traditional public,-5.73,-5.65
+440033000106,Silver Spring School,East Providence,0,49.24,262.0,40.99,131.0,44.97,128.0,Traditional public,12.44,6.43
+440033000109,Emma G. Whiteknact School,East Providence,0,58.43,267.0,28.0,138.0,34.57,137.0,Traditional public,4.18,1.61
+440033000348,Edward Martin Middle,East Providence,0,53.54,663.0,19.93,654.0,21.81,649.0,Traditional public,-6.4,-14.12
+440033000389,Myron J. Francis Elementary,East Providence,0,35.68,412.0,56.92,192.0,55.59,192.0,Traditional public,21.4,8.84
+440036000111,Metcalf School,Exeter-West Greenwich,0,17.18,582.0,47.49,446.0,45.09,447.0,Traditional public,2.46,-12.87
+440036000390,Exeter-West Greenwich Reg. Jr.,Exeter-West Greenwich,0,14.39,264.0,44.67,262.0,69.33,262.0,Traditional public,-1.79,9.68
+440036000391,Exeter-West Greenwich Regional,Exeter-West Greenwich,0,12.04,490.0,62.0,126.0,72.0,126.0,Traditional public,14.32,10.92
+440039000114,Capt. Isaac Paine El. School,Foster,0,23.9,272.0,33.46,134.0,43.02,135.0,Traditional public,-8.12,-10.87
+440042000116,Ponaganset High School,Foster-Glocester,0,14.86,801.0,37.0,161.0,57.0,161.0,Traditional public,-9.23,-2.37
+440042000117,Ponaganset Middle School,Foster-Glocester,0,13.97,501.0,28.71,487.0,53.67,486.0,Traditional public,-17.97,-6.24
+440045000119,Fogarty Memorial,Glocester,0,8.52,305.0,61.17,171.0,64.62,170.0,Traditional public,11.68,1.41
+440045000403,West Glocester Elementary,Glocester,0,16.51,218.0,48.43,112.0,67.48,114.0,Traditional public,3.05,9.12
+440051000123,Jamestown School-Lawn,Jamestown,0,7.86,229.0,56.56,226.0,63.99,226.0,Traditional public,6.73,0.38
+440051000404,Jamestown School-Melrose,Jamestown,0,8.06,273.0,74.17,91.0,69.01,91.0,Traditional public,24.45,5.52
+440054000125,Brown Avenue School,Johnston,0,30.36,224.0,53.81,130.0,53.81,130.0,Traditional public,15.55,3.83
+440054000128,Johnston Senior High,Johnston,0,46.14,867.0,22.0,225.0,42.0,226.0,Traditional public,-8.14,1.59
+440054000129,Nicholas A. Ferri Middle,Johnston,0,46.46,792.0,18.62,784.0,33.39,780.0,Traditional public,-11.35,-6.82
+440054000130,Sarah Dyer Barnes School,Johnston,0,39.24,288.0,30.63,150.0,41.63,150.0,Traditional public,-3.06,-2.96
+440054000131,Thornton School,Johnston,0,62.14,346.0,28.89,217.0,32.37,216.0,Traditional public,6.98,1.66
+440054000132,Winsor Hill School,Johnston,0,40.21,383.0,30.65,222.0,36.46,223.0,Traditional public,-2.54,-7.54
+440057000062,Lincoln Middle School,Lincoln,0,28.53,743.0,43.49,735.0,38.46,732.0,Traditional public,4.3,-12.62
+440057000134,Lincoln Central Elem.,Lincoln,0,8.36,371.0,68.31,203.0,65.42,202.0,Traditional public,18.73,2.11
+440057000135,Lincoln Senior High School,Lincoln,0,24.07,918.0,37.0,216.0,72.0,216.0,Traditional public,-4.49,18.22
+440057000137,Lonsdale Elementary,Lincoln,0,26.86,283.0,41.76,146.0,54.09,146.0,Traditional public,1.7,1.99
+440057000138,Northern Lincoln Elem.,Lincoln,0,43.22,516.0,48.64,225.0,57.51,226.0,Traditional public,17.0,15.33
+440057000139,Saylesville Elementary,Lincoln,0,28.68,272.0,41.41,149.0,44.7,149.0,Traditional public,2.29,-6.29
+440060000140,Wilbur and McMahon Schools,Little Compton,0,11.89,244.0,50.43,164.0,48.09,164.0,Traditional public,2.68,-13.09
+440063000141,Aquidneck School,Middletown,0,23.37,338.0,37.0,86.0,62.0,77.0,Traditional public,-4.85,7.79
+440063000144,Joseph H. Gaudet School,Middletown,0,31.59,668.0,35.74,652.0,35.68,634.0,Traditional public,-1.88,-13.56
+440063000147,Middletown High School,Middletown,0,25.41,606.0,37.0,150.0,62.0,149.0,Traditional public,-3.8,9.03
+440063000405,Forest Avenue School,Middletown,0,39.69,320.0,27.0,87.0,32.0,84.0,Traditional public,-6.46,-12.32
+440063000471,Joseph Gaudet Academy,Middletown,0,27.17,184.0,22.0,187.0,47.0,178.0,Traditional public,-17.89,-4.91
+440066000150,Narragansett Elementary,Narragansett,0,26.05,430.0,54.58,149.0,57.2,150.0,Traditional public,14.11,4.61
+440066000151,Narragansett High School,Narragansett,0,16.29,448.0,42.0,87.0,67.0,88.0,Traditional public,-3.49,8.5
+440066000396,Narragansett Pier School,Narragansett,0,21.66,397.0,37.36,391.0,51.74,391.0,Traditional public,-5.37,-3.5
+440069000149,Block Island School,New Shoreham,0,15.79,133.0,41.59,65.0,67.55,61.0,Traditional public,-4.16,8.74
+440072000155,Frank E. Thompson Middle,Newport,0,69.97,606.0,19.4,582.0,25.78,560.0,Traditional public,1.51,-0.19
+440072000159,Rogers High School,Newport,0,58.07,644.0,22.0,114.0,42.0,112.0,Traditional public,-2.0,8.82
+440072000485,Claiborne Pell Elementary,Newport,0,69.28,830.0,22.13,339.0,24.54,323.0,Traditional public,3.89,-1.85
+440075000165,Davisville Middle School,North Kingstown,0,26.87,536.0,43.48,524.0,45.07,525.0,Traditional public,3.43,-7.03
+440075000166,Forest Park El. School,North Kingstown,0,21.05,266.0,50.62,129.0,61.58,130.0,Traditional public,7.58,5.96
+440075000167,Hamilton School,North Kingstown,0,13.29,316.0,68.81,175.0,78.81,175.0,Traditional public,21.78,18.49
+440075000168,North Kingstown Sr. High,North Kingstown,0,15.16,1445.0,62.0,345.0,82.0,345.0,Traditional public,15.93,22.81
+440075000169,Suzanne M. Henseler Quidnesset,North Kingstown,0,66.17,269.0,27.53,122.0,44.5,122.0,Traditional public,7.69,16.23
+440075000170,Stony Lane El. School,North Kingstown,0,9.51,410.0,48.58,209.0,60.25,209.0,Traditional public,-0.4,-2.36
+440075000172,Wickford Middle School,North Kingstown,0,15.43,376.0,58.75,375.0,71.97,377.0,Traditional public,12.81,12.95
+440075000398,Fishing Cove El. School,North Kingstown,0,34.29,347.0,54.5,119.0,67.75,117.0,Traditional public,18.27,20.16
+440078000173,Birchwood Middle School,North Providence,0,39.86,444.0,30.51,441.0,50.26,434.0,Traditional public,-2.85,6.05
+440078000174,Centredale School,North Providence,0,42.7,267.0,20.88,134.0,27.27,132.0,Traditional public,-11.03,-15.23
+440078000176,Greystone School,North Providence,0,36.51,315.0,30.33,127.0,43.79,126.0,Traditional public,-4.77,-2.46
+440078000177,James L. McGuire School,North Providence,0,32.47,194.0,26.04,107.0,36.88,107.0,Traditional public,-11.13,-11.81
+440078000178,Dr. Edward Ricci School,North Providence,0,42.92,431.0,25.22,423.0,42.16,419.0,Traditional public,-6.58,-0.21
+440078000179,Marieville School,North Providence,0,50.0,236.0,24.5,129.0,40.17,127.0,Traditional public,-3.65,2.1
+440078000180,North Providence High,North Providence,0,37.93,1094.0,27.0,266.0,52.0,266.0,Traditional public,-7.36,6.62
+440078000181,Stephen Olney School,North Providence,0,27.65,264.0,30.54,136.0,41.34,136.0,Traditional public,-9.11,-10.28
+440078000182,Joseph A. Whelan School,North Providence,0,28.12,256.0,34.05,127.0,40.8,127.0,Traditional public,-5.36,-10.53
+440081000184,Dr. Halliwell School,North Smithfield,0,16.17,266.0,54.6,260.0,59.24,263.0,Traditional public,9.04,0.67
+440081000186,North Smitfield HS,North Smithfield,0,9.34,503.0,57.0,121.0,67.0,121.0,Traditional public,7.94,4.29
+440081000399,North Smithfield Elementary,North Smithfield,0,18.84,483.0,57.0,105.0,72.0,104.0,Traditional public,12.82,15.04
+440081000469,North Smithfield MS,North Smithfield,0,19.25,400.0,44.92,391.0,62.26,391.0,Traditional public,0.95,5.55
+440084000187,Agnes E. Little School,Pawtucket,0,79.84,377.0,22.75,197.0,27.78,199.0,Traditional public,9.94,7.79
+440084000189,Curvin-McCabe School,Pawtucket,0,79.59,441.0,19.21,237.0,23.75,234.0,Traditional public,6.27,3.61
+440084000190,Cunningham School,Pawtucket,0,86.54,468.0,24.86,257.0,18.77,248.0,Traditional public,15.5,2.85
+440084000191,Elizabeth Baldwin School,Pawtucket,0,89.66,638.0,18.45,341.0,25.08,330.0,Traditional public,10.69,11.04
+440084000192,Fallon Memorial School,Pawtucket,0,68.0,575.0,21.59,242.0,31.59,241.0,Traditional public,2.69,4.42
+440084000193,Flora S. Curtis School,Pawtucket,0,53.27,306.0,40.87,102.0,27.69,103.0,Traditional public,14.4,-8.4
+440084000194,Francis J. Varieur School,Pawtucket,0,70.16,372.0,34.41,221.0,48.66,218.0,Traditional public,16.62,22.81
+440084000195,Henry J. Winters School,Pawtucket,0,90.55,402.0,24.35,201.0,30.78,200.0,Traditional public,17.05,17.28
+440084000196,Potter-Burns School,Pawtucket,0,55.36,466.0,25.17,249.0,31.84,248.0,Traditional public,-0.22,-2.98
+440084000197,Joseph Jenks Middle School,Pawtucket,0,82.43,666.0,7.4,624.0,10.62,636.0,Traditional public,-4.08,-7.8
+440084000198,Lyman B. Goff Middle School,Pawtucket,0,66.84,775.0,17.0,800.0,36.02,793.0,Traditional public,-2.49,8.15
+440084000199,Nathanael Greene School,Pawtucket,0,73.12,439.0,31.95,202.0,26.9,199.0,Traditional public,15.69,2.84
+440084000200,Samuel Slater Middle School,Pawtucket,0,85.98,806.0,5.81,757.0,8.8,734.0,Traditional public,-3.84,-7.46
+440084000201,Charles E. Shea High School,Pawtucket,0,84.24,825.0,7.5,180.0,22.0,175.0,Traditional public,-3.04,4.68
+440084000202,William E. Tolman High,Pawtucket,0,73.07,906.0,7.5,190.0,22.0,191.0,Traditional public,-8.79,-2.09
+440084000466,Jacqueline M. Walsh School,Pawtucket,0,48.61,216.0,24.5,50.0,64.5,50.0,Traditional public,-4.37,25.59
+440087000204,Howard Hathaway School,Portsmouth,0,16.48,443.0,47.08,181.0,54.54,181.0,Traditional public,1.69,-3.85
+440087000206,Melville School,Portsmouth,0,16.22,333.0,55.93,119.0,61.64,119.0,Traditional public,10.4,3.1
+440087000207,Portsmouth High School,Portsmouth,0,9.68,919.0,57.0,239.0,72.0,239.0,Traditional public,8.11,9.49
+440087000208,Portsmouth Middle School,Portsmouth,0,15.46,718.0,43.57,708.0,54.32,708.0,Traditional public,-2.34,-4.69
+440090000013,Veazie Street School,Providence,0,87.9,529.0,13.94,286.0,22.36,278.0,Traditional public,5.28,7.26
+440090000055,Academy for Career Exploration,Providence,1,82.78,209.0,5.0,43.0,24.5,43.0,Charter,-6.3,6.29
+440090000071,Robert L. Bailey  IV,Providence,0,91.19,386.0,16.46,196.0,18.27,196.0,Traditional public,9.49,5.16
+440090000124,Alfred Lima  Sr. El School,Providence,0,90.98,499.0,8.51,397.0,12.06,388.0,Traditional public,1.43,-1.18
+440090000156,Cornel Young & Charlotte Woods,Providence,0,89.15,636.0,7.35,350.0,12.05,329.0,Traditional public,-0.67,-2.29
+440090000157,Times2 Academy,Providence,1,80.33,722.0,15.88,415.0,25.37,413.0,Charter,3.32,5.68
+440090000162,Anthony Carnevale Elementary,Providence,0,84.0,550.0,10.83,265.0,10.71,265.0,Traditional public,0.16,-6.76
+440090000175,Governor Christopher DelSesto,Providence,0,91.24,902.0,5.48,885.0,7.55,864.0,Traditional public,-1.46,-5.53
+440090000209,W B Cooley & Acad Internationa,Providence,0,88.22,416.0,2.5,90.0,7.5,90.0,Traditional public,-6.0,-7.41
+440090000213,Asa Messer El. School,Providence,0,88.62,545.0,14.61,201.0,22.36,195.0,Traditional public,6.32,7.7
+440090000215,Alan Shawn Feinstein Elem.,Providence,0,86.99,469.0,11.78,254.0,11.83,234.0,Traditional public,2.65,-3.82
+440090000216,Harry Kizirian Elementary,Providence,0,87.8,574.0,5.6,288.0,15.3,276.0,Traditional public,-3.11,0.14
+440090000217,Central High School,Providence,0,88.2,1203.0,2.5,219.0,12.0,224.0,Traditional public,-6.01,-2.92
+440090000218,Classical High School,Providence,0,59.8,1087.0,77.0,253.0,92.0,253.0,Traditional public,53.88,59.87
+440090000221,Vartan Gregorian El. School,Providence,0,55.27,351.0,30.96,205.0,43.83,206.0,Traditional public,5.52,8.96
+440090000222,George J. West El. School,Providence,0,83.97,730.0,7.0,372.0,20.66,363.0,Traditional public,-3.69,3.18
+440090000223,Gilbert Stuart Middle School,Providence,0,87.54,907.0,3.87,921.0,8.42,851.0,Traditional public,-4.97,-6.9
+440090000224,Hope High School,Providence,0,86.19,999.0,2.5,184.0,12.0,184.0,Traditional public,-7.04,-4.14
+440090000227,Carl G. Lauro El. School,Providence,0,87.23,822.0,8.89,451.0,10.29,416.0,Traditional public,-0.12,-5.22
+440090000228,Frank D. Spaziano Elem School,Providence,0,91.71,398.0,16.97,309.0,23.85,302.0,Traditional public,10.26,11.06
+440090000230,Martin Luther King El. School,Providence,0,80.84,501.0,10.67,278.0,20.44,270.0,Traditional public,-1.62,1.06
+440090000231,Mary E. Fogarty El. School,Providence,0,92.09,455.0,2.5,236.0,15.59,220.0,Traditional public,-4.01,3.03
+440090000232,Mount Pleasant High,Providence,0,87.4,921.0,2.5,223.0,7.5,223.0,Traditional public,-6.42,-7.9
+440090000234,Nathanael Greene Middle,Providence,0,86.58,976.0,19.29,981.0,26.35,964.0,Traditional public,9.95,10.45
+440090000236,Pleasant View School,Providence,0,80.65,429.0,14.64,146.0,24.53,148.0,Traditional public,2.25,5.04
+440090000237,Leviton Dual Language School,Providence,0,89.3,271.0,34.16,119.0,44.84,119.0,Traditional public,26.22,30.58
+440090000240,Reservoir Avenue School,Providence,0,84.56,285.0,34.43,137.0,41.32,129.0,Traditional public,24.05,24.2
+440090000241,Robert F. Kennedy El. School,Providence,0,75.79,475.0,33.92,221.0,39.04,216.0,Traditional public,19.03,16.6
+440090000242,Roger Williams Middle,Providence,0,90.62,789.0,2.5,767.0,8.64,723.0,Traditional public,-4.76,-4.82
+440090000243,Lillian Feinstein El. School,Providence,0,90.21,439.0,16.92,238.0,15.26,233.0,Traditional public,9.44,1.56
+440090000247,Webster Avenue School,Providence,0,87.3,307.0,21.62,155.0,28.59,155.0,Traditional public,12.65,13.12
+440090000248,William DAbate Elem. School,Providence,0,88.75,400.0,25.16,228.0,28.64,226.0,Traditional public,16.93,14.05
+440090000323,E-Cubed Academy,Providence,0,86.49,370.0,2.5,74.0,12.0,74.0,Traditional public,-6.89,-3.96
+440090000344,Dr. Jorge Alvarez HS,Providence,0,83.84,755.0,2.5,122.0,7.5,122.0,Traditional public,-8.25,-10.06
+440090000401,Esek Hopkins Middle,Providence,0,91.67,552.0,5.88,552.0,13.34,534.0,Traditional public,-0.85,0.52
+440090000467,Providence Career Technical,Providence,0,85.5,662.0,2.5,152.0,17.0,152.0,Traditional public,-7.4,0.44
+440090000474,Nathan Bishop Middle,Providence,0,73.88,689.0,13.72,686.0,18.77,680.0,Traditional public,-2.16,-4.83
+440090000491,West Broadway Middle School,Providence,0,93.8,468.0,8.67,465.0,10.0,453.0,Traditional public,3.04,-1.53
+440090000492,360 High School,Providence,0,86.75,234.0,5.0,57.0,5.0,58.0,Traditional public,-4.25,-10.8
+440090000497,Evolutions High School,Providence,0,80.74,244.0,5.0,53.0,15.0,54.0,Traditional public,-7.35,-4.44
+440096000036,Scituate Middle School,Scituate,0,16.77,322.0,31.64,316.0,52.29,310.0,Traditional public,-13.61,-5.92
+440096000252,Clayville School,Scituate,0,10.64,141.0,63.53,67.0,69.5,67.0,Traditional public,15.13,7.57
+440096000253,Hope School,Scituate,0,20.11,174.0,41.28,83.0,51.61,83.0,Traditional public,-2.24,-4.58
+440096000254,North Scituate School,Scituate,0,11.9,210.0,45.7,108.0,56.19,108.0,Traditional public,-2.04,-4.97
+440096000255,Scituate High School,Scituate,0,23.5,383.0,47.0,92.0,67.0,92.0,Traditional public,5.22,12.87
+440099000256,Anna M. McCabe School,Smithfield,0,11.78,314.0,41.31,138.0,71.12,139.0,Traditional public,-6.5,9.89
+440099000257,Raymond LaPerche School,Smithfield,0,9.2,261.0,43.74,132.0,71.02,132.0,Traditional public,-5.4,8.21
+440099000258,Old County Road School,Smithfield,0,30.74,231.0,20.83,119.0,37.33,120.0,Traditional public,-17.23,-12.42
+440099000259,Smithfield High School,Smithfield,0,12.08,720.0,47.0,189.0,67.0,189.0,Traditional public,-0.65,5.95
+440099000260,Vincent J. Gallagher Middle,Smithfield,0,15.3,621.0,41.58,609.0,52.2,610.0,Traditional public,-4.42,-6.91
+440099000261,William Winsor School,Smithfield,0,7.89,266.0,41.14,128.0,68.17,128.0,Traditional public,-8.67,4.58
+440102000210,Broad Rock Middle School,South Kingstown,0,18.0,450.0,54.62,441.0,57.25,440.0,Traditional public,10.01,-0.22
+440102000263,Matunuck School,South Kingstown,0,6.63,181.0,54.5,73.0,59.78,72.0,Traditional public,4.04,-4.58
+440102000264,Peace Dale School,South Kingstown,0,19.44,427.0,41.97,151.0,62.03,151.0,Traditional public,-1.91,5.44
+440102000265,South Kingstown High,South Kingstown,0,16.49,940.0,62.0,214.0,77.0,214.0,Traditional public,16.61,18.62
+440102000266,Curtis Corner Middle School,South Kingstown,0,15.54,489.0,47.0,481.0,57.08,480.0,Traditional public,1.12,-1.87
+440102000269,Wakefield School,South Kingstown,0,18.18,176.0,62.98,92.0,67.22,92.0,Traditional public,18.46,9.86
+440102000270,West Kingston School,South Kingstown,0,19.87,297.0,39.78,108.0,49.31,108.0,Traditional public,-3.87,-7.02
+440105000273,Pocasset School,Tiverton,0,31.62,253.0,34.38,85.0,44.38,85.0,Traditional public,-3.22,-4.83
+440105000274,Tiverton High School,Tiverton,0,18.98,511.0,47.0,128.0,67.0,128.0,Traditional public,2.89,10.13
+440105000275,Tiverton Middle School,Tiverton,0,26.2,542.0,36.95,537.0,43.28,537.0,Traditional public,-3.44,-9.21
+440105000276,Ranger School,Tiverton,0,25.78,225.0,59.15,86.0,69.21,87.0,Traditional public,18.54,16.46
+440105000357,Fort Barton School,Tiverton,0,16.43,207.0,49.0,80.0,64.5,80.0,Traditional public,3.58,6.08
+440111000285,Cedar Hill School,Warwick,0,13.99,336.0,38.08,137.0,41.46,138.0,Traditional public,-8.6,-18.44
+440111000291,Greenwood School,Warwick,0,17.88,274.0,34.5,136.0,57.44,136.0,Traditional public,-10.17,-0.1
+440111000293,Holliman School,Warwick,0,32.69,309.0,25.32,152.0,40.95,152.0,Traditional public,-11.74,-7.62
+440111000294,Hoxsie School,Warwick,0,37.58,306.0,23.16,172.0,46.47,169.0,Traditional public,-11.38,0.87
+440111000296,Lippitt School,Warwick,0,40.4,250.0,15.0,125.0,24.58,125.0,Traditional public,-18.09,-19.31
+440111000298,Norwood School,Warwick,0,32.81,253.0,24.1,121.0,44.5,121.0,Traditional public,-12.89,-3.99
+440111000299,Oakland Beach School,Warwick,0,46.34,382.0,16.36,187.0,36.35,186.0,Traditional public,-13.68,-3.94
+440111000300,Park School,Warwick,0,30.19,265.0,32.29,148.0,34.3,147.0,Traditional public,-6.05,-15.78
+440111000301,Pilgrim High School,Warwick,0,27.48,1379.0,26.0,349.0,54.0,349.0,Traditional public,-13.73,2.28
+440111000304,Robertson School,Warwick,0,31.62,291.0,23.77,139.0,37.14,140.0,Traditional public,-13.84,-12.07
+440111000305,Scott School,Warwick,0,37.22,309.0,44.43,138.0,51.24,138.0,Traditional public,9.7,5.42
+440111000306,Sherman School,Warwick,0,31.21,314.0,24.86,173.0,49.36,174.0,Traditional public,-12.96,-0.1
+440111000307,Toll Gate High School,Warwick,0,28.43,1217.0,22.0,278.0,47.0,281.0,Traditional public,-17.25,-4.14
+440111000308,Warwick Neck School,Warwick,0,31.62,272.0,39.25,124.0,59.1,124.0,Traditional public,1.64,9.88
+440111000311,Winman Middle School,Warwick,0,24.36,776.0,28.59,756.0,31.74,759.0,Traditional public,-12.75,-21.87
+440111000312,Wyman School,Warwick,0,32.11,327.0,34.91,176.0,37.58,176.0,Traditional public,-2.44,-11.33
+440111000512,Warwick Veterans Middle School,Warwick,0,25.87,1179.0,22.61,1148.0,33.86,1151.0,Traditional public,-17.95,-18.84
+440114000238,Wakefield Hills El. School,West Warwick,0,52.59,405.0,23.23,158.0,38.74,158.0,Traditional public,-3.59,2.24
+440114000313,John F. Deering Middle,West Warwick,0,51.6,1097.0,17.5,1076.0,19.55,1037.0,Traditional public,-9.84,-17.55
+440114000315,John F. Horgan School,West Warwick,0,64.67,535.0,14.34,218.0,32.38,221.0,Traditional public,-6.27,3.21
+440114000318,West Warwick High School,West Warwick,0,42.62,962.0,22.0,203.0,52.0,203.0,Traditional public,-9.95,9.46
+440114000402,Greenbush Elementary School,West Warwick,0,40.67,477.0,14.3,191.0,33.88,192.0,Traditional public,-18.65,-9.85
+440117000120,Springbrook Elementary School,Westerly,0,52.16,301.0,33.91,128.0,39.21,129.0,Traditional public,6.87,2.45
+440117000319,Westerly Middle School,Westerly,0,37.92,836.0,33.23,828.0,52.0,829.0,Traditional public,-1.14,6.61
+440117000321,Dunns Corners School,Westerly,0,27.3,315.0,52.0,142.0,61.37,142.0,Traditional public,12.17,9.54
+440117000325,Westerly High School,Westerly,0,30.52,806.0,42.0,188.0,57.0,187.0,Traditional public,3.83,7.12
+440117000362,State Street School,Westerly,0,38.82,304.0,65.24,121.0,65.24,121.0,Traditional public,31.34,20.39
+440120000327,Bernon Heights School,Woonsocket,0,77.68,448.0,15.48,244.0,12.38,244.0,Traditional public,1.56,-8.92
+440120000329,Citizens Memorial School,Woonsocket,0,89.8,402.0,12.0,386.0,15.37,384.0,Traditional public,4.31,1.42
+440120000330,Leo A. Savoie School,Woonsocket,0,64.59,401.0,23.2,205.0,23.78,205.0,Traditional public,2.54,-5.45
+440120000331,Kevin K. Coleman School,Woonsocket,0,90.62,288.0,15.0,149.0,8.24,148.0,Traditional public,7.74,-5.21
+440120000334,Globe Park School,Woonsocket,0,80.52,503.0,17.37,244.0,17.0,243.0,Traditional public,4.91,-2.58
+440120000336,Harris School,Woonsocket,0,83.45,441.0,16.9,209.0,17.0,205.0,Traditional public,5.95,-0.8
+440120000345,Woonsocket High School,Woonsocket,0,70.82,1614.0,12.0,321.0,33.0,323.0,Traditional public,-5.45,7.55
+440120000516,Woonsocket Middle at Hamlet,Woonsocket,0,81.82,693.0,9.18,668.0,12.47,670.0,Traditional public,-2.61,-6.32
+440120000517,Woonsocket Middle @ Villa Nova,Woonsocket,0,83.79,691.0,5.8,673.0,13.72,666.0,Traditional public,-4.98,-3.87

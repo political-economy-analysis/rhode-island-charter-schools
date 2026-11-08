@@ -1,0 +1,22 @@
+Preparation Sheet for Debate #3: Charter Schools in Rhode Island
+Debate date: Wednesday, November 18, 2026 (in class)
+
+Motion: Rhode Island should lift the current moratorium on new and expanding charter schools and double the statewide cap on charter schools, from 28 to 56.
+
+Note: You are all highly encouraged to use AI tools to prepare for this debate, and to use them as an input when you prepare the pre-debate assignments below (which are meant to guide your preparation). This time you choose the data and the methods yourselves, and we again recommend the use of Claude Code.
+
+Background
+
+On June 18, 2026, Governor Dan McKee signed into law a moratorium on charter schools in Rhode Island. The law pauses the approval and expansion of charter schools through the 2028–29 school year, limits state funding for new or expanded charters through fiscal year 2029, and permanently lowers the statewide cap on charter schools from 35 to 28. McKee pointed to declining public-school enrollment and the cost to district budgets. A Providence dual-language charter school that had won preliminary approval to open in 2027 has since sued in federal court. McKee lost the September 2026 Democratic primary, and a new governor takes office in January 2027. For this debate, assume the governor-elect has asked for an assessment of a proposal to lift the moratorium and double the charter cap from 28 to 56, and that the proposal is being heard in the General Assembly.
+
+work like a neutral analyst for the incoming governor. Use whatever data and methods you think are appropriate to assess the likely impact of lifting the current moratorium on charter schools and doubling the statewide cap from 28 to 56. Your assessment should cover:
+
+Overall proficiency. The impact on the overall educational proficiency of students in the state.
+
+Inequality. The impact on inequality, for instance by looking at the distribution of proficiency by socioeconomic status, race and ethnicity, and special education status.
+
+Geography. The legislature includes members from around the state, so think about the potential differential impact on different districts or areas of the state.
+
+Other constituencies. How the proposal would affect other groups, for instance K-12 teachers in the state.
+
+There is no reading list for this debate. Finding the evidence is part of the job: look for credible research on what charter schools do to student outcomes, and think about how a study can tell the effect of a charter school apart from differences in who chooses to enroll. Check that every source you cite exists and says what you say it says; AI tools can invent citations.

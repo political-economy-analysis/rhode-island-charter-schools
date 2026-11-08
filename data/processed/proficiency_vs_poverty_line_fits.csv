@@ -1,0 +1,5 @@
+subject,sector,schools,slope_pts_per_10pct_frl,slope_ci_low,slope_ci_high,predicted_at_25,predicted_at_50,predicted_at_75,frl_min,frl_max
+math,Traditional public,257,-5.14,-5.61,-4.64,41.01,28.15,15.3,3.01,96.71
+math,Charter,33,-3.42,-7.06,0.91,47.17,38.62,30.07,6.78,92.8
+read,Traditional public,257,-6.06,-6.56,-5.58,53.22,38.07,22.92,3.01,96.71
+read,Charter,33,-3.2,-5.66,0.52,54.05,46.04,38.04,6.78,92.8

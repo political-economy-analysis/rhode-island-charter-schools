@@ -1,0 +1,5 @@
+subject,sector,schools,students_enrolled,avg_low_income_pct,avg_proficiency_pct
+math,Charter,33,9351,68.57,30.52
+math,Traditional public,257,128756,45.82,31.06
+read,Charter,33,9351,68.57,40.52
+read,Traditional public,257,128756,45.82,43.15

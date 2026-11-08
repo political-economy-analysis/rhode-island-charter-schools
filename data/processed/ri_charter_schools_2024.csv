@@ -1,0 +1,43 @@
+year,ncessch,school_name,lea_name,street_location,city_location,zip_location,county_code,latitude,longitude,school_level,school_status,lowest_grade_offered,highest_grade_offered,virtual,enrollment,free_or_reduced_price_lunch,teachers_fte
+2024,440001500475,Blackstone Valley Prep Jr High,Blackstone Valley Prep  A RI Mayoral Academy,909 Lonsdale,Central Falls,02863,44007,41.889961,-71.401954,Middle,Open,7,8,0,323,260,24
+2024,440001400472,Segue Inst for Learning,Segue Institute for Learning,325 Cowden Street,Central Falls,02863,44007,41.88822,-71.396671,Primary,Open,0,8,0,359,333,27
+2024,440001400551,Segue Institute Learning High,Segue Institute for Learning,325 Cowden Street,Central Falls,02863,44007,41.88822,-71.396671,7,New,9,9,0,55,49,4
+2024,440000600326,The Learning Community,Learning Community,21 Lincoln Avenue,Central Falls,02863,44007,41.892346,-71.387999,Primary,Open,0,8,0,569,510,46
+2024,440002100527,AF Iluminar Mayoral Middle Sch,Achievement First Rhode Island,85 Garfield Avenue,Cranston,02920,44007,41.800163,-71.443305,Middle,Open,5,8,0,406,328,20
+2024,440002100495,Achievement First Iluminar,Achievement First Rhode Island,85 Garfield Avenue,Cranston,02920,44007,41.800163,-71.443305,Primary,Open,0,4,0,465,365,31
+2024,440024000229,Apprenticeship Exploration Sch,Cranston,4 Sharpe Drive,Cranston,02920,44007,41.739369,-71.461082,High,Open,9,12,0,176,146,22
+2024,440001500473,Blackstone Valley Prep,Blackstone Valley Prep  A RI Mayoral Academy,291 Broad Street,Cumberland,02864,44007,41.90605,-71.392301,Primary,Open,0,4,0,422,357,36
+2024,440001500480,Blackstone Valley Prep E. 2,Blackstone Valley Prep  A RI Mayoral Academy,52 Broad St.,Cumberland,02864,44007,41.901106,-71.391422,Primary,Open,0,4,0,426,339,31
+2024,440001500496,Blackstone Valley Prep Element,Blackstone Valley Prep  A RI Mayoral Academy,3357 Mendon Rd.,Cumberland,02864,44007,41.978074,-71.457954,Primary,Open,0,4,0,280,231,22
+2024,440001500488,Blackstone Valley Prep High,Blackstone Valley Prep  A RI Mayoral Academy,65 Macondray St.,Cumberland,02864,44007,41.903466,-71.393425,High,Open,9,12,0,405,299,30
+2024,440003500245,The Compass School,The Compass School,537 Old North Road,Kingston,02881,44009,41.494249,-71.516384,Primary,Open,0,8,0,217,39,19
+2024,440001500513,Blackstone Valley Prep Upper E,Blackstone Valley Prep  A RI Mayoral Academy,3 Fairlawn Way,Lincoln,02865,44007,41.886239,-71.415972,Middle,Open,5,6,0,380,281,25
+2024,440120100543,Excel Academy Rhode Island,Excel Academy Rhode Island,622 Woonasquatucket Avenue,North Providence,02911,44007,41.854982,-71.482727,Middle,Open,5,7,0,312,249,21
+2024,440003600246,Blackstone Academy Charter,Blackstone Academy,334 Pleasant Street,Pawtucket,02860,44007,41.868997,-71.384952,High,Open,9,12,0,357,290,25
+2024,440003400226,International Charter School,International Charter,334 Pleasant Street,Pawtucket,02860,44007,41.868997,-71.384952,Primary,Open,0,5,0,377,250,22
+2024,440002100515,AF Providence Mayoral Middle,Achievement First Rhode Island,370 Hartford Avenue,Providence,02909,44007,41.81742,-71.456241,Middle,Open,5,8,0,405,348,29
+2024,440002100539,Achievement First Envision Ele,Achievement First Rhode Island,370 Hartford Ave,Providence,02909,44007,41.81742,-71.456241,Primary,Open,0,4,0,458,377,31
+2024,440002100533,Achievement First Promesa,Achievement First Rhode Island,234 Daboll St,Providence,02907,44007,41.803845,-71.428502,Primary,Open,0,5,0,548,459,41
+2024,440002100486,Achievement First Providence,Achievement First Rhode Island,370 Hartford Avenue,Providence,02909,44007,41.81742,-71.456241,Primary,Open,0,4,0,460,382,34
+2024,440002100538,Achievement First Providence H,Achievement First Rhode Island,206 Elmwood Ave,Providence,02907,44007,41.80768,-71.423844,High,Open,9,12,0,458,377,36
+2024,440003700519,Charette Charter School,Charette Charter,335 Westminster St.,Providence,02903,44007,41.821906,-71.414465,High,Open,9,12,0,168,148,10
+2024,440003100524,Highlander Elementary Charter,Highlander,42 Lexington Avenue,Providence,02907,44007,41.799543,-71.417336,Primary,Open,-1,6,0,269,227,21
+2024,440003800540,Nuestro Mundo Public Charter S,Nuestro Mundo Public Charter,17-21 Gordon Avenue,Providence,02905,44007,41.804523,-71.416409,Primary,Open,0,8,0,292,249,16
+2024,440003200520,Paul Cuffee Lower School,Paul Cuffee Charter Sch,459 Promenade Street,Providence,02908,44007,41.829346,-71.427507,Primary,Open,0,5,0,358,309,28
+2024,440003200525,Paul Cuffee Middle School,Paul Cuffee Charter Sch,30 Barton Street,Providence,02909,44007,41.817306,-71.436818,Middle,Open,6,8,0,189,170,13
+2024,440003200526,Paul Cuffee Upper School,Paul Cuffee Charter Sch,544 Elmwood Avenue,Providence,02907,44007,41.797718,-71.425572,High,Open,9,12,0,243,220,26
+2024,440003900541,Providence Preparatory Charter,Providence Preparatory Charter,155 Harrison Street,Providence,02907,44007,41.812272,-71.428545,Middle,Open,5,8,0,244,243,
+2024,440001900479,RINI Middle College,Rhode Island Nurses Institute Middle College,150 Washington Street,Providence,02903,44007,41.82255,-71.415161,High,Open,9,12,0,462,389,38
+2024,440002800490,SouthSide Elementary Charter,SouthSide Charter School,135 Prairie Ave,Providence,02905,44007,41.81116,-71.416421,Primary,Open,0,5,0,135,109,10
+2024,440002700489,The Hope Academy,The Hope Academy,1000 Eddy Street,Providence,02905,44007,41.801206,-71.405383,Primary,Open,0,8,0,320,258,28
+2024,440090000528,Times2 Elementary School,Providence,50 Fillmore Street,Providence,02908,44007,41.838094,-71.422149,Primary,Open,0,5,0,322,275,29
+2024,440090000530,Times2 Middle/High School,Providence,50 Fillmore Street,Providence,02908,44007,41.838094,-71.422149,High,Open,6,12,0,383,291,31
+2024,440001800478,Trinity Academy Performing Art,Trinity Academy for the Performing Arts,275 Westminster Street,Providence,02903,44007,41.822773,-71.414939,High,Open,5,12,0,234,190,25
+2024,440002500487,Village Green Virtual,Village Green Virtual,135 Weybosset Street,Providence,02903,44007,41.82292,-71.411471,High,Open,9,12,2,203,200,14
+2024,440003300225,Kingston Hill Academy,Kingston Hill Academy,850 Stony Fort Road,Saunderstown,02874,44009,41.499095,-71.511232,Primary,Open,0,5,0,260,49,21
+2024,440003100521,Highlander Secondary Charter S,Highlander,360 Market Street,Warren,02885,44001,41.746329,-71.275077,High,Open,7,12,0,340,297,22
+2024,440001700477,The Greene School,The Greene School,94 John Potter Road,West Greenwich,02817,44003,41.615638,-71.682653,High,Open,9,12,0,189,86,13
+2024,440000800297,BEACON Charter School,Beacon Charter School,320 Main Street,Woonsocket,02895,44007,42.005136,-71.51291,High,Open,9,12,0,203,134,17
+2024,440000800493,Founders Academy,Beacon Charter School,1 Social Street,Woonsocket,02895,44007,42.005706,-71.511996,Middle,Open,6,8,0,158,111,14
+2024,440002900548,RISE Prep Mayoral Acad High,RISE Prep Mayoral Academy,600 Social Street,Woonsocket,02895,44007,42.009372,-71.503412,7,New,9,9,0,62,51,8
+2024,440002900494,RISE Prep Mayoral Academy,RISE Prep Mayoral Academy,30 Cumberland Street,Woonsocket,02895,44007,42.00889,-71.50308,Primary,Open,0,8,0,573,384,35

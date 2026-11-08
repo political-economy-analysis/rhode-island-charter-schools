@@ -1,0 +1,87 @@
+school_name,street,city,zip,latitude,longitude,enrollment,teachers_fte,students_per_teacher,pct_students_of_color,affiliation,school_level
+Barrington Christian Academy,9 Old County Road,Barrington,02806,41.755976,-71.327399,184,20.9,8.8,23.9,Other religious,Combined
+Montessori Centre Of Barrington,303 Sowams Rd,Barrington,02806,41.75341,-71.293841,5,2.0,2.5,0.0,Nonsectarian,Elementary
+Red Brick Nursery School,50 Middle Hwy,Barrington,02806,41.75684,-71.330671,14,3.1,4.5,14.3,Nonsectarian,Elementary
+St Andrews School,63 Federal Rd,Barrington,28062,41.749423,-71.324453,211,31.8,6.6,37.9,Nonsectarian,Combined
+St Luke'S School,10 Waldron Ave,Barrington,02806,41.750816,-71.339488,144,15.6,9.2,4.2,Catholic,Elementary
+Harmony Hill School,63 Harmony Hill Rd,Chepachet,02814,41.91569,-71.623721,40,9.6,4.2,50.0,Nonsectarian,Combined
+Father John V. Doyle School,343 S Main St,Coventry,02816,41.68279,-71.576413,156,17.6,8.9,9.0,Catholic,Elementary
+Pathways Strategic Teaching Center,75 Centre Of New England Blvd,Coventry,02816,41.6618,-71.571891,76,10.0,7.6,30.3,Nonsectarian,Combined
+Miss Lee Anns Early Learning Center,180 Oaklawn Ave,Cranston,02920,41.77064,-71.469601,5,1.0,5.0,40.0,Nonsectarian,Elementary
+St Mary Elementary School,85 Chester Ave,Cranston,02920,41.789598,-71.465437,148,11.9,12.4,45.3,Catholic,Elementary
+St Paul School,1789 Broad St,Cranston,02905,41.776704,-71.400258,121,12.4,9.8,60.3,Catholic,Elementary
+Little Red Hen Preschool & Kindergarten,Po Box 226,East Greenwich,02818,41.64678,-71.456098,15,2.0,7.5,13.3,Nonsectarian,Elementary
+Montessori Of Greenwich Bay,3285 S County Trl,East Greenwich,02818,41.60761,-71.49376,5,3.4,1.5,60.0,Nonsectarian,Elementary
+Our Lady Of Mercy School,55 4Th Ave,East Greenwich,02818,41.65456,-71.457551,205,16.1,12.7,13.7,Catholic,Elementary
+Rocky Hill Country Day School,530 Ives Rd,East Greenwich,02818,41.658869,-71.421618,276,61.5,4.5,89.1,Nonsectarian,Combined
+Sweet Peas Village Early Childhood School,836 Middle Rd,East Greenwich,02818,41.645516,-71.490299,16,3.8,4.2,0.0,Nonsectarian,Elementary
+The Stork'S Nest Child Academy - East Greenwich,3116 S County Trl,East Greenwich,02818,41.611831,-71.491179,12,2.0,6.0,66.7,Nonsectarian,Elementary
+Gordon School,45 Maxfield Ave,East Providence,02914,41.801183,-71.372846,332,44.0,7.5,40.7,Nonsectarian,Elementary
+Ocean State Montessori School,100 Grove Ave,East Providence,02914,41.81817,-71.372461,68,5.0,13.6,35.3,Nonsectarian,Elementary
+Providence Country Day School,660 Waterman Ave,East Providence,02914,41.816891,-71.353497,339,38.4,8.8,36.3,Nonsectarian,Combined
+Sacred Heart School,56 Purchase St,East Providence,02914,41.819419,-71.377484,128,12.9,9.9,28.1,Catholic,Elementary
+Overbrook Academy,60 Austin Ave,Greenville,02828,41.878822,-71.559156,88,5.6,15.7,100.0,Catholic,Combined
+St Philip School,618 Putnam Pike,Greenville,02828,41.873193,-71.558505,147,14.5,10.1,11.6,Catholic,Elementary
+Action Based Enterprises School,Po Box 19038,Johnston,02919,42.002431,-71.514011,16,4.0,4.0,62.5,Nonsectarian,Elementary
+St Rocco School,931 Atwood Ave,Johnston,02919,41.79717,-71.484241,135,12.3,11.0,31.1,Catholic,Elementary
+The Spurwink School,365 River Rd,Lincoln,02865,41.91292,-71.415871,19,6.0,3.2,57.9,Nonsectarian,Combined
+Little Peeps Montessori Naturskola,Po Box 323,Little Compton,02837,41.50884,-71.17153,5,1.0,5.0,0.0,Nonsectarian,Elementary
+All Saints Academy,915 W Main Rd,Middletown,02842,41.525623,-71.29276,120,13.9,8.6,37.5,Catholic,Elementary
+Middlebridge School,333 Ocean Rd,Narragansett,02882,41.415165,-71.457291,70,40.0,1.8,92.9,Nonsectarian,Secondary
+Quest Montessori School,1150 Boston Neck Rd,Narragansett,02882,41.488263,-71.4392,63,6.9,9.1,27.0,Nonsectarian,Elementary
+St Michaels Country Day School,180 Rhode Island Ave,Newport,02840,41.48547,-71.301651,161,21.6,7.5,13.7,Nonsectarian,Elementary
+South County Montessori School,1239 Tower Hill Rd,North Kingstown,02852,41.542957,-71.469137,42,5.9,7.1,11.9,Nonsectarian,Elementary
+West Bay Christian Academy (Elementary),475 School St,North Kingstown,02852,41.61542,-71.472291,146,16.5,8.8,4.8,Other religious,Elementary
+George N Hunt Campus School,440 Fruit Hill Ave,North Providence,29112,41.849881,-71.465519,24,4.9,4.9,37.5,Nonsectarian,Combined
+Community Christian School,113 Church St,Pascoag,02859,41.959135,-71.706029,55,6.0,9.2,16.4,Other religious,Elementary
+Darlington Early Childhood Center,680 Newport Ave,Pawtucket,02861,41.874969,-71.354636,8,1.0,8.0,37.5,Nonsectarian,Elementary
+St Cecilia School,755 Central Ave,Pawtucket,02861,41.88784,-71.353931,170,18.5,9.2,70.0,Catholic,Elementary
+St Raphael Academy,123 Walcott St,Pawtucket,02860,41.87704,-71.376071,444,36.4,12.2,50.0,Catholic,Secondary
+St Teresa School,140 Woodhaven Rd,Pawtucket,02861,41.867569,-71.355985,210,16.1,13.0,85.7,Catholic,Elementary
+Portsmouth Abbey School,285 Corys Ln,Portsmouth,02871,41.601155,-71.269856,334,50.0,6.7,30.5,Catholic,Secondary
+Sea Rose Montessori Co-Op,324 E Main Road- St.Marys Church,Portsmouth,02871,41.546755,-71.262108,14,8.3,1.7,21.4,Nonsectarian,Elementary
+St Philomena School Of The Sacred Heart,324 Cory'S Ln,Portsmouth,02871,41.59881,-71.276281,355,53.6,6.6,13.2,Catholic,Elementary
+The Pennfield School,110 Sandy Point Ave,Portsmouth,02871,41.552581,-71.251871,119,16.5,7.2,21.8,Nonsectarian,Elementary
+Bishop Mcvinney Catholic Regional School,155 Gordon Ave,Providence,02905,41.801991,-71.41527,148,9.0,16.4,99.3,Catholic,Elementary
+Blessed Sacrament School,240 Regent Ave,Providence,02908,41.82902,-71.443051,119,10.6,11.2,91.6,Catholic,Elementary
+Bradley School Providence,130 Broadway,Providence,02903,41.82155,-71.421301,142,18.3,7.8,41.5,Nonsectarian,Combined
+Community Preparatory School,135 Prairie Ave,Providence,02905,41.811134,-71.416411,123,11.1,11.1,83.7,Nonsectarian,Elementary
+French-American School Of Rhode Island,75 John St,Providence,02906,41.821754,-71.396936,129,15.0,8.6,20.9,Nonsectarian,Elementary
+Jewish Community Day School Of Rhode Island,85 Taft Ave,Providence,02906,41.841527,-71.396332,73,13.9,5.3,2.7,Other religious,Elementary
+La Salle Academy,612 Academy Ave,Providence,02908,41.842304,-71.4458,1460,107.5,13.6,21.2,Catholic,Combined
+Lincoln School,301 Butler Ave,Providence,02906,41.833081,-71.382968,319,60.6,5.3,29.8,Other religious,Combined
+Montessori Childrens House,518 Lloyd Ave,Providence,02906,41.83523,-71.386681,60,12.0,5.0,53.3,Nonsectarian,Elementary
+Mount Pleasant Academy,1246 Chalkstone Ave,Providence,02908,41.83239,-71.450031,24,11.1,2.2,0.0,Nonsectarian,Elementary
+Ocean Tides School,260 Highland Ave,Providence,02906,41.854052,-71.398625,18,7.3,2.5,38.9,Nonsectarian,Secondary
+Providence Hebrew Day School,450 Elmgrove Ave,Providence,29063,41.843953,-71.392714,111,19.8,5.6,0.0,Other religious,Combined
+School One,220 University Ave,Providence,29065,41.83483,-71.385009,74,13.9,5.3,33.8,Nonsectarian,Secondary
+St Augustine School,635 Mount Pleasant Ave,Providence,02908,41.845207,-71.453252,234,25.6,9.1,27.4,Catholic,Elementary
+St Patrick Academy,244 Smith St,Providence,02908,41.83245,-71.419621,82,6.4,12.8,91.5,Catholic,Secondary
+St Pius V School,49 Elmhurst Ave,Providence,02908,41.84089,-71.436531,205,16.4,12.5,43.9,Catholic,Elementary
+St Thomas Regional School,15 Edendale Ave,Providence,02911,41.83665,-71.467631,127,10.0,12.7,99.2,Catholic,Elementary
+The Croft School,179 Wayland Ave Fl 2,Providence,02906,41.82909,-71.387931,95,12.4,7.7,45.3,Nonsectarian,Elementary
+The Grace School,1000 Eddy St,Providence,02905,41.801248,-71.405412,112,19.9,5.6,49.1,Nonsectarian,Elementary
+The Groden Center,86 Mount Hope Ave,Providence,29061,41.840602,-71.400191,73,9.0,8.1,43.8,Nonsectarian,Combined
+The San Miguel School,525 Branch Ave,Providence,02904,41.851758,-71.422545,64,8.8,7.3,95.3,Nonsectarian,Elementary
+Wheeler School,216 Hope St,Providence,02906,41.82907,-71.398151,736,177.5,4.1,37.0,Nonsectarian,Combined
+St Mary Academy-Bay View,3070 Pawtucket Ave,Riverside,02915,41.79107,-71.365161,402,44.1,9.1,31.8,Catholic,Combined
+St Margaret School,42 Bishop Ave,Rumford,02916,41.844221,-71.35033,136,12.6,10.8,8.8,Catholic,Elementary
+The Wolf School,215 Ferris Ave,Rumford,02916,41.848284,-71.34786,66,8.0,8.2,15.2,Nonsectarian,Elementary
+The Little Village Schoolhouse,170 Pleasant View Ave,Smithfield,02917,41.892804,-71.542751,18,2.3,7.8,33.3,Nonsectarian,Elementary
+Bradley School-South,31 Fairfield Way,Wakefield,02879,41.450917,-71.473339,44,7.3,6.0,18.2,Nonsectarian,Combined
+Monsignor Matthew Clarke Catholic Regional School,5074 Tower Hill Rd,Wakefield,02879,41.442631,-71.477752,232,18.1,12.8,3.9,Catholic,Elementary
+"(Christian Brethren Of Warwick, Inc. Dba)",311 Buttonwoods Ave,Warwick,02886,41.69813,-71.429661,8,0.6,13.3,37.5,Other religious,Elementary
+Bishop Hendricken High School,2615 Warwick Ave,Warwick,02889,41.705595,-71.396186,658,43.9,15.0,18.7,Catholic,Secondary
+Eleanor Briggs School,116 Long St,Warwick,02886,41.691009,-71.432575,27,7.0,3.9,25.9,Nonsectarian,Combined
+Precious Angels Child Care Center,20 Jefferson Park Rd,Warwick,02888,41.755546,-71.433848,267,35.0,7.6,13.9,Nonsectarian,Elementary
+Progressive Learning For Children,189 Toll Gate Rd,Warwick,02886,41.70139,-71.471011,11,1.0,11.0,63.6,Nonsectarian,Elementary
+St Kevin School,39 Cathedral Rd,Warwick,02889,41.71231,-71.391791,170,11.9,14.3,17.6,Catholic,Elementary
+St Peter School,120 Mayfair Rd,Warwick,02888,41.75455,-71.392528,139,16.1,8.6,12.9,Catholic,Elementary
+St Rose Of Lima School,200 Brentwood Ave,Warwick,02886,41.707692,-71.431866,174,15.1,11.5,17.8,Catholic,Elementary
+Greenwich Village School,227 Nooseneck Hill Rd,West Greenwich,02817,41.647306,-71.609639,11,4.3,2.6,36.4,Nonsectarian,Elementary
+Islamic School Of Rhode Island,840 Providence St,West Warwick,02893,41.72399,-71.491541,114,14.6,7.8,54.4,Other religious,Elementary
+St Joseph School,850 Wakefield St,West Warwick,02893,41.725433,-71.492663,180,11.3,15.9,21.1,Catholic,Elementary
+Good Shepherd Catholic School,1210 Mendon Rd,Woonsocket,02895,42.002993,-71.479924,176,11.6,15.2,21.0,Catholic,Elementary
+Gr Woonsocket Catholic Regional,1210 Mendon Rd,Woonsocket,02895,42.002993,-71.479924,176,11.6,15.2,21.0,Catholic,Elementary
+Hillside Alternative Program,1401 Main St,Woonsocket,02895,42.002431,-71.514011,28,8.0,3.5,53.6,Nonsectarian,Combined
+Mount St Charles Academy,800 Logee St,Woonsocket,02895,41.99463,-71.501031,570,43.1,13.2,3.9,Catholic,Combined

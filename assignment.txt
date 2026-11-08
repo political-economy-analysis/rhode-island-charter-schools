@@ -1,0 +1,37 @@
+Debate #3 — Individual Prep
+Due Monday by 11:59pm  Points 100  Submitting a file upload or a text entry box
+Debate #3 — Charter Schools in Rhode Island (in class, Wednesday, November 18, 2026)
+Motion: Rhode Island should lift the current moratorium on new and expanding charter schools and double the statewide cap on charter schools, from 28 to 56.
+Individual submissions. Due Monday, November 9, 2026, 11:59 PM. Upload your memo, your technical appendix (PDF or Word) and your zipped code folder here.
+
+Before you know which side you're on, work like a neutral analyst for the incoming governor. Use whatever data and methods you think are appropriate to assess the likely impact of lifting the current moratorium on charter schools and doubling the statewide cap from 28 to 56. Your assessment should cover:
+
+Overall proficiency. The impact on the overall educational proficiency of students in the state.
+
+Inequality. The impact on inequality, for instance by looking at the distribution of proficiency by socioeconomic status, race and ethnicity, and special education status.
+
+Geography. The legislature includes members from around the state, so think about the potential differential impact on different districts or areas of the state.
+
+Other constituencies. How the proposal would affect other groups, for instance K-12 teachers in the state.
+
+There is no reading list for this debate. Finding the evidence is part of the job: look for credible research on what charter schools do to student outcomes, and think about how a study can tell the effect of a charter school apart from differences in who chooses to enroll. Check that every source you cite exists and says what you say it says; AI tools can invent citations.
+
+Getting set up
+Claude Code. As in Debate #2, we recommend doing the analysis in Claude Code, so that every number and figure you produce comes with the code that made it. Create a folder on your computer for this exercise and choose it as your workspace in Claude Code. If a data source does not allow automated downloads, download the files in your browser and save them in data/raw for Claude Code to read.
+
+Recommended datasets, to get started
+RIDE Data Portal (Rhode Island Department of Education): https://www3.ride.ri.gov/ADP
+  and its user guide: https://www3.ride.ri.gov/ADP/docs/UserGuide.pdf
+RIDE school report cards: https://reportcard.ride.ri.gov/
+Stanford Educational Opportunity Project: https://edopportunity.org/
+Urban Institute Education Data Explorer: https://educationdata.urban.org/data-explorer
+Education Data Center: https://www.eddatacenter.org/
+
+What to submit
+A memo of no more than 1000 words, with up to 3 exhibits (figures or tables), written for a general policy audience.
+
+A technical appendix that makes clear your approach to assessing these effects, written for a technically oriented researcher looking to reproduce and verify your results. There is no word limit for the appendix, and it does not count toward the memo's 1000 words.
+
+Your code base (a zipped folder with your scripts, a README, and the data or instructions to download it), whether you built it yourself or with Claude, so that anyone can rerun your code and get your results. No API keys or passwords.
+
+For the full preparation sheet (team roles, schedule, datasets and suggested AI prompts), see the Debate #3 preparation sheet.
